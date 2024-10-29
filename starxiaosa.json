@@ -22,6 +22,75 @@
       "changeable": 0
     },
     {
+      "key": "瓜子影视",
+      "name": "瓜子｜影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "疯狗影视",
+      "name": "疯狗｜影视",
+      "type": 3,
+      "api": "csp_FengGo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "比特影视",
+      "name": "比特｜影视",
+      "type": 3,
+      "api": "csp_Bttwo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "FreeOK",
+      "name": "️️Free｜影视",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.freeok.lol"
+    },
+    {
+      "key": "奇优影视",
+      "name": "奇优｜影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "骚火影视",
+      "name": "骚火｜影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "茶杯狐",
+      "name": "茶杯狐｜影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/茶杯狐.js"
+    },
+    {
+      "key": "魔力高清",
+      "name": "魔力｜影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/魔力高清.js"
+    },
+    {
       "key": "豆瓣",
       "name": "🐼┃豆瓣┃预告",
       "type": 3,
