@@ -4,8 +4,8 @@
   "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "🐼┃公众号┃肥猫宝贝",
+      "key": "阿星豆瓣",
+      "name": "🐼┃关注抖音号┃showstar2018",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
