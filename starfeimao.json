@@ -1808,20 +1808,8 @@
         "UUE29"
       ]
     },
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
+    
     },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
       "regex": [
         "is_play_url="
       ]
