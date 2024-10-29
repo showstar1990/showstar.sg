@@ -10,17 +10,6 @@
       "searchable": 0
     },
     {
-      "key": "瓜子",
-      "name": "🍉瓜子┃APP",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },
-    {
       "key": "本地",
       "name": "本地｜视频",
       "type": 3,
