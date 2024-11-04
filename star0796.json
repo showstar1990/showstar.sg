@@ -344,18 +344,6 @@
       ]
     },
 
-
-    {
-      "key": "韩圈",
-      "name": "阿星☪韩剧",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
     {
       "key": "厂长弹幕版",
       "name": "阿星☪厂长",
@@ -1344,15 +1332,7 @@
       "filterable": 1,
       "ext": "https://www.xb6v.com"
     },
-    {
-      "key": "csp_SeedHub",
-      "name": "阿星☪SeedHub",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_KubaCL",
       "name": "阿星☪酷吧电影",
