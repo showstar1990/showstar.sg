@@ -48,17 +48,7 @@
       }
     },
 
-    {
-      "key": "央视大全",
-      "name": "阿星☪央视大全",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/大全央视.js"
-    },
+    
     {
       "key": "电视台",
       "name": "阿星☪电视台",
