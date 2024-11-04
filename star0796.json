@@ -89,30 +89,6 @@
       "filterable": 1
     },
 
-        {
-            "key": "JS",
-            "name": "甄嬛｜4K影院",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/4KAV.js"
-        },
-        {
-            "key": "07104K-剧院",
-            "name": "紫薇｜4K影院",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/4K剧院.js"
-        },
-
-
     {
       "key": "hipy_js_采集之王",
       "name": "阿星☪采集之王",
@@ -1485,46 +1461,7 @@
       },
       "timeout": 15
     },
-{
-      "key": "YY影视",
-      "name": "关注抖音show.star",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "https://uuys.cc",
-        "二次截取": "module-page&&<div id=\"page\">",
-        "数组": "<a&&</div></div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "阿星专享✨+module-item-note&&</div>",
-        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
-        "线路标题": "阿星✨+<span>&&</span>+【共+<small>&&</small>+集】",
-        "播放数组": "module-play-list\"&&</div>",
-        "播放标题": "阿星✨+>&&</",
-        "简介": "阿星提醒：请勿相信视频里的广告！+<p>&&</p >",
-        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
-        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
-      }
-    },
 
-
-    {
-      "key": "push_agent",
-      "name": "提醒你切勿相信任何广告",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "5538a723e4e44c89862a1376a84b7ce1"
-    }
-
-  ],
   "parses": [
     {
       "name": "聚合1",
@@ -1919,3 +1856,43 @@
     }
   ]
 }
+{
+      "key": "YY影视",
+      "name": "关注抖音show.star",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "阿星专享✨+module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "阿星✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "阿星✨+>&&</",
+        "简介": "阿星提醒：请勿相信视频里的广告！+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      }
+    },
+
+
+    {
+      "key": "push_agent",
+      "name": "提醒你切勿相信任何广告",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "5538a723e4e44c89862a1376a84b7ce1"
+    }
+
+  ],
