@@ -89,6 +89,29 @@
       "filterable": 1
     },
 
+{
+            "key": "JS",
+            "name": "阿星｜4K影院",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4KAV.js"
+        },
+        {
+            "key": "07104K-剧院",
+            "name": "阿星｜4K影院",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4K剧院.js"
+        },
+
     {
       "key": "hipy_js_采集之王",
       "name": "阿星☪采集之王",
