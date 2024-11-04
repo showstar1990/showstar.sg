@@ -979,49 +979,7 @@
         "欧美动漫"
       ]
     },
-    {
-      "key": "爱奇",
-      "name": "阿星☪爱奇",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺.js"
-    },
-    {
-      "key": "游酷",
-      "name": "阿星☪游酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "企鹅",
-      "name": "阿星☪企鹅",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯VIP.js"
-    },
-    {
-      "key": "芒果",
-      "name": "阿星☪芒果",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/芒果.js"
-    },
-    {
-      "key": "艘狗",
-      "name": "阿星☪艘狗",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/搜狗.js"
-    },
-    {
-      "key": "360影视",
-      "name": "阿星☪360剧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视[官].js"
-    },
-
+    
  {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "阿星☪腾腾4K",
