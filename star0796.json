@@ -69,6 +69,18 @@
       "ext": "./lib/好趣网.js"
     },
     {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "阿星☪腾腾4K",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
+    },
+    {
       "key": "瓜子",
       "name": "阿星☪瓜子app",
       "type": 3,
@@ -915,18 +927,7 @@
       ]
     },
     
- {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "阿星☪腾腾4K",
-      "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
-    },
+ 
     {
       "key": "guoguo",
       "name": "阿星☪果果4K",
