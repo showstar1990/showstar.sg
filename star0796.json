@@ -75,14 +75,14 @@
       "ext": "./lib/金牌影视.js"
     },
 {
- "key": "Xbpq_电影猎手",
- "name": "☪阿星🍎猎手",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "ext": "./lib/猎手.json"
+"key": "csp_XYQHiker_电影牛影院",
+"name": "阿星🍎影牛",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/电影牛影院.json"
 },
 
     {
