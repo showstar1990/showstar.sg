@@ -487,16 +487,6 @@
       "ext": "./lib/guangun.json"
     },
     {
-      "key": "子子影视",
-      "name": "阿星☪子子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/子子.json"
-    },
-{
       "key": "圣城影视",
       "name": "阿星☪圣城",
       "type": 3,
