@@ -1362,15 +1362,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_MeijuMi",
-      "name": "阿星☪美剧迷",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_Xunlei8",
       "name": "阿星☪迅雷吧",
