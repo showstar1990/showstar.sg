@@ -1160,12 +1160,50 @@
     "ext":"./1024/49影视网.json"
     },
     
-        
+     {
+      "key": "csp_Mp4Mov",
+      "name": "阿星☪Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_New6v",
+      "name": "阿星☪新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    
+    {
+      "key": "csp_KubaCL",
+      "name": "阿星☪酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "csp_Xunlei8",
+      "name": "阿星☪迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
 
        
 		
     
-{
+   {
       "key": "hipy_js_贝乐虎[儿]",
       "name": "阿星☪贝乐虎",
       "type": 3,
@@ -1313,45 +1351,7 @@
       },
       "timeout": 30
     },
-    {
-      "key": "csp_Mp4Mov",
-      "name": "阿星☪Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_New6v",
-      "name": "阿星☪新6V",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
     
-    {
-      "key": "csp_KubaCL",
-      "name": "阿星☪酷吧电影",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "csp_Xunlei8",
-      "name": "阿星☪迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     
     {
       "key": "盘Se",
