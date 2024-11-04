@@ -186,6 +186,17 @@
       "timeout": 10
     },
     {
+     "key":"茶狐杯",
+     "name":"《茶杯🔹狐源》",
+     "type":3,"
+     api":"csp_XBPQ",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"./lib/茶狐杯.json"
+    },
+
+    {
       "key": "文才",
       "name": "阿星☪文才",
       "type": 3,
