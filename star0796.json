@@ -1462,6 +1462,20 @@
       "timeout": 15
     },
 
+
+    {
+      "key": "push_agent",
+      "name": "提醒你切勿相信任何广告",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "ext": "5538a723e4e44c89862a1376a84b7ce1"
+    }
+
+  ],
   "parses": [
     {
       "name": "聚合1",
@@ -1881,18 +1895,3 @@
         "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
       }
     },
-
-
-    {
-      "key": "push_agent",
-      "name": "提醒你切勿相信任何广告",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 1,
-      "ext": "5538a723e4e44c89862a1376a84b7ce1"
-    }
-
-  ],
