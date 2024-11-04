@@ -58,15 +58,21 @@
       "jar": "./lib/sdtv.jar"
     },
     {
-      "key": "好趣网",
-      "name": "阿星☪好趣网",
+      "key": "csp_星辰",
+      "name": "阿星☪星辰",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "order_num": 87,
-      "ext": "./lib/好趣网.js"
+      "ext": "./lib/xcys.json"
+    },
+    {
+      "key": "金牌影视",
+      "name": "阿星☪金牌",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/金牌影视.js"
     },
 
     {
@@ -148,17 +154,6 @@
       "ext": "./lib/4kav.json"
     },
     {
-      "key": "荐片",
-      "name": "阿星☪荐P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
-    },
-{
       "key": "荐片弹幕版",
       "name": "阿星☪荐片",
       "type": 3,
@@ -172,19 +167,7 @@
       },
       "timeout": 10
     },
-    {
-      "key": "天天弹幕版",
-      "name": "阿星☪天天",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
+
 {
 "key": "csp_XYQHikerAL_玩偶哥哥",
 "name":"阿星☪玩偶哥哥",
@@ -344,18 +327,6 @@
       ]
     },
 
-
-    {
-      "key": "韩圈",
-      "name": "阿星☪韩剧",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
     {
       "key": "厂长弹幕版",
       "name": "阿星☪厂长",
@@ -449,16 +420,7 @@
       "filterable": 1,
       "ext": "./lib/电影先生.js"
     },
-    {
-      "key": "csp_星辰",
-      "name": "阿星☪星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xcys.json"
-    },
+    
     
     {
       "key": "剧集",
@@ -1344,15 +1306,7 @@
       "filterable": 1,
       "ext": "https://www.xb6v.com"
     },
-    {
-      "key": "csp_SeedHub",
-      "name": "阿星☪SeedHub",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "csp_KubaCL",
       "name": "阿星☪酷吧电影",
@@ -1362,36 +1316,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_MeijuMi",
-      "name": "阿星☪美剧迷",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Xunlei8",
-      "name": "阿星☪迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "纸条",
-      "name": "阿星☪纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-        "danmu": true
-      },
+        
+    
       "timeout": 15
     },
     {
