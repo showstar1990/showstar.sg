@@ -1372,18 +1372,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "纸条",
-      "name": "阿星☪纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-        "danmu": true
-      },
+    
       "timeout": 15
     },
     {
