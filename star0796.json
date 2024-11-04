@@ -507,27 +507,6 @@
       "ext": "./lib/sc1080.json"
     },
     {
-      "key": "米爱影视",
-      "name": "阿星☪米爱",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/miaiys.json"
-    },
-    
-    {
-      "key": "HDmoli",
-      "name": "阿星☪魔力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/HDmoli.json"
-    },
-    {
       "key": "看片狂人",
       "name": "阿星☪狂人",
       "type": 3,
@@ -734,17 +713,7 @@
       "ext": "./lib/VIPyingshi.json"
     },
     
-    {
-      "key": "csp_Voflix",
-      "name": "阿星☪Voflix",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/voflix.json"
-    },
-    {
+        {
       "key": "Vidhub视频",
       "name": "阿星☪视频库",
       "type": 3,
@@ -754,17 +723,7 @@
       "filterable": 1,
       "ext": "./lib/Vidhub.json"
     },
-    {
-      "key": "VIP影视",
-      "name": "阿星☪VIP2K",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/VIPyingshi.json"
-    },
-
+    
    {
       "key": "360zy",
       "name": "阿星☪360采集",
