@@ -82,7 +82,7 @@
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
- "ext": "./json/猎手.json"
+ "ext": "./lib/猎手.json"
 },
 
     {
