@@ -506,8 +506,27 @@
       "filterable": 1,
       "ext": "./lib/sc1080.json"
     },
-        
+    {
+      "key": "米爱影视",
+      "name": "阿星☪米爱",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/miaiys.json"
+    },
     
+    {
+      "key": "HDmoli",
+      "name": "阿星☪魔力",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/HDmoli.json"
+    },
     {
       "key": "看片狂人",
       "name": "阿星☪狂人",
