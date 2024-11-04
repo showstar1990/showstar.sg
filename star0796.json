@@ -1141,63 +1141,7 @@
       "timeout": 25
     },
 
- {
-            "key": "完美弹幕",
-            "name": "阿星☪完美弹幕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./1024/完美弹幕.js"
-        },
-
-{
- "key":"csp_xBPQ_blifun影院",
- "name":"阿星☪BLF影院",
- "type":3,
- "api":"csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"./0930/blifun影院.json"
-  },
-
-{
- "key":"xbpq_韩迷TV",
- "name":"阿星☪韩蜜影视",
- "type":3,
- "api":"csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"./0930/xbpq_韩迷TV.json"
-  },
-
-
-
-
-{
-    "key":"电视剧网",
-    "name":"阿星☪剧透影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./0831/电视剧网.json"
-    },
-
-
-    
-    {
-    "key":"清凌影院",
-    "name":"阿星☪清凌影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./0831/清凌影院.json"
-    },
-    
+     
     {
     "key":"森林影院",
     "name":"阿星☪森林影视",
