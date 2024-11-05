@@ -68,16 +68,7 @@ myIPTV/main/ipv6.m3u",
  "filterable": 1,
  "ext": "./json/电影港.json"
  },
-{
- "key": "BT天堂",
- "name": "☪阿星🍎BT天堂",
- "type": 3,
- "api": "csp_XYQHiker",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "ext": "./json/BT天堂.json"
- },
+
     {
       "key": "csp_星辰",
       "name": "☪阿星🍎星辰",
@@ -139,6 +130,13 @@ myIPTV/main/ipv6.m3u",
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
     },
 
+{
+"key": "布谷tv",
+"name": "💢简影🧲布谷4K",
+"type": 3,
+"api": "csp_XBPQ",
+"ext": "./json/布谷4K.json"
+},
     {
       "key": "瓜子",
       "name": "☪阿星🍎瓜子app",
@@ -1277,7 +1275,16 @@ myIPTV/main/ipv6.m3u",
       "filterable": 1
     },   
 
-       
+    {
+ "key": "BT天堂",
+ "name": "☪阿星🍎BT天堂磁力",
+ "type": 3,
+ "api": "csp_XYQHiker",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./json/BT天堂.json"
+ },   
 		
     
    {
