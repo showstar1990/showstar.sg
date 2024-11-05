@@ -15,7 +15,7 @@ myIPTV/main/ipv6.m3u",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣抖音号：show.star☪阿星",
+      "name": "抖音号：show.star☪阿星",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -171,16 +171,15 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-"key": "csp_xb_ysgc",
-"name": "💢简影💈工厂",
+"key": "csp_xBPQ_疯狗",
+"name": "☪阿星🍎疯狗影视",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 0,
-"ext": "./json/ysgc.json"
+"filterable": 1,
+"ext": "./json/fgys.json"
 },
-
     {
       "key": "hipy_js_采集之王",
       "name": "☪阿星🍎采集之王",
