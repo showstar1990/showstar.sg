@@ -80,13 +80,15 @@ myIPTV/main/ipv6.m3u",
  },
 
 {
- "key": "芒果视频",
- "name": "☪阿星🍎芒果",
+ "key": "大米星球",
+ "name": "☪阿星🍎大米星球",
  "type": 3,
  "api": "./xiaosa_JS/drpy2.min.js",
- "ext": "./xiaosa_JS/芒果视频.js"
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./xiaosa_JS/大米星球.js"
  },
-
     {
       "key": "csp_星辰",
       "name": "☪阿星🍎星辰",
