@@ -58,6 +58,16 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
+{
+ "key": "电影港",
+ "name": "☪阿星🍎电影港磁力",
+ "type": 3,
+ "api": "csp_XYQHiker",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./json/电影港.json"
+ },
     {
       "key": "csp_星辰",
       "name": "☪阿星🍎星辰",
@@ -191,16 +201,7 @@ myIPTV/main/ipv6.m3u",
       "order_num": 0,
       "ext": "./lib/采集之王.js?type=url&params=../lib/采集静态.json"
     },
-    {
-      "key": "4K在线看",
-      "name": "☪阿星🍎4Kav",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/4kav.json"
-    },
+    
     {
       "key": "荐片",
       "name": "☪阿星🍎荐P2P",
