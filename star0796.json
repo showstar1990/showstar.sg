@@ -159,7 +159,15 @@ myIPTV/main/ipv6.m3u",
       "quickSearch": 1,
       "filterable": 1
     },
- 
+ {
+      "key": "洽洽影视",
+      "name": "洽洽｜APP",
+      "type": 3,
+      "api": "csp_AppGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
 {
 "key": "网飞猫影视",
