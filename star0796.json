@@ -159,14 +159,15 @@ myIPTV/main/ipv6.m3u",
       "quickSearch": 1,
       "filterable": 1
     },
- {
-      "key": "洽洽影视",
-      "name": "洽洽｜APP",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+   {
+    "key": "忍者影视",
+    "name": "☪阿星🍎忍者影视",
+    "type": 3,
+    "api": "csp_AppRZ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://rzys.xyz/"
     },
 
 {
@@ -268,7 +269,7 @@ myIPTV/main/ipv6.m3u",
 
 {
  "key": "比特",
- "name": "☪阿星🍎比特",
+ "name": "☪阿星🍎比特影视",
  "type": 3,
  "api": "csp_Bttwo",
  "searchable": 1,
@@ -301,7 +302,7 @@ myIPTV/main/ipv6.m3u",
 
     {
       "key": "文才",
-      "name": "☪阿星🍎文才",
+      "name": "☪阿星🍎文才影视",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
@@ -315,7 +316,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "南瓜影视",
-      "name": "☪阿星🍎南瓜",
+      "name": "☪阿星🍎南瓜影视",
       "type": 3,
       "jar": "./jar/spider.jar",
       "api": "csp_Nangua",
@@ -437,7 +438,7 @@ myIPTV/main/ipv6.m3u",
 
     {
       "key": "厂长弹幕版",
-      "name": "☪阿星🍎厂长",
+      "name": "☪阿星🍎厂长影视",
       "type": 3,
       "api": "csp_Czzy",
       "searchable": 1,
@@ -453,7 +454,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "js_subaibai",
-      "name": "☪阿星🍎素白",
+      "name": "☪阿星🍎素白影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "playerType": 1,
@@ -464,7 +465,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
       "key": "畅梦",
-      "name": "☪阿星🍎畅梦",
+      "name": "☪阿星🍎畅梦影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/畅梦.js"
@@ -492,7 +493,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
             "key": "可可影视",
-            "name": "☪阿星🍎可可",
+            "name": "☪阿星🍎可可影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -514,7 +515,7 @@ myIPTV/main/ipv6.m3u",
 
 {
       "key": "js_电影先生",
-      "name": "☪阿星🍎影城",
+      "name": "☪阿星🍎电影先生",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -539,7 +540,7 @@ myIPTV/main/ipv6.m3u",
 
     {
       "key": "三米ys",
-      "name": "☪阿星🍎三米",
+      "name": "☪阿星🍎三米影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -549,7 +550,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "美柏",
-      "name": "☪阿星🍎美柏",
+      "name": "☪阿星🍎美柏影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -572,7 +573,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "csp_XYQBiu_骚火VIP",
-      "name": "☪阿星🍎骚火",
+      "name": "☪阿星🍎骚火影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -582,7 +583,7 @@ myIPTV/main/ipv6.m3u",
     }, 
     {
       "key": "csp_xBPQ_奇优",
-      "name": "☪阿星🍎奇优",
+      "name": "☪阿星🍎奇优影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -592,7 +593,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "光棍影视",
-      "name": "☪阿星🍎光棍",
+      "name": "☪阿星🍎光棍影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -602,7 +603,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "圣城影视",
-      "name": "☪阿星🍎圣城",
+      "name": "☪阿星🍎圣城影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -613,7 +614,7 @@ myIPTV/main/ipv6.m3u",
         
     {
       "key": "HDmoli",
-      "name": "☪阿星🍎魔力",
+      "name": "☪阿星🍎魔力影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -623,7 +624,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "看片狂人",
-      "name": "☪阿星🍎狂人",
+      "name": "☪阿星🍎狂人影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -640,7 +641,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "高清在线",
-      "name": "☪阿星🍎高清",
+      "name": "☪阿星🍎高清在线",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -652,7 +653,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "lzi",
-      "name": "☪阿星🍎量子",
+      "name": "☪阿星🍎量子影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
