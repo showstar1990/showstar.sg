@@ -80,12 +80,12 @@ myIPTV/main/ipv6.m3u",
  },
 
 {
- "key": "磁力熊",
- "name": "☪阿星🍎磁力熊",
+ "key": "芒果视频",
+ "name": "☪阿星🍎芒果",
  "type": 3,
- "api": "./JS/drpy2.min.js",
- "ext": "./JS/磁力熊.js"
-  },
+ "api": "./xiaosa_JS/drpy2.min.js",
+ "ext": "./xiaosa_JS/芒果视频.js"
+ },
 
     {
       "key": "csp_星辰",
@@ -106,7 +106,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
 "key": "csp_XYQHiker_电影牛影院",
-"name": "阿星🍎牛影院",
+"name": "阿星🍎影牛",
 "type": 3,
 "api": "csp_XYQHiker",
 "searchable": 1,
