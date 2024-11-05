@@ -80,15 +80,13 @@ myIPTV/main/ipv6.m3u",
  },
 
 {
- "key": "布谷TV",
- "name": "☪阿星🍎布谷TV",
+ "key": "磁力熊",
+ "name": "☪阿星🍎磁力熊",
  "type": 3,
- "api": "csp_XBPQ",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "ext": "./json/布谷TV.json"
- },
+ "api": "./JS/drpy2.min.js",
+ "ext": "./JS/磁力熊.js"
+  },
+
     {
       "key": "csp_星辰",
       "name": "☪阿星🍎星辰",
@@ -108,7 +106,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
 "key": "csp_XYQHiker_电影牛影院",
-"name": "阿星🍎影牛",
+"name": "阿星🍎牛影院",
 "type": 3,
 "api": "csp_XYQHiker",
 "searchable": 1,
