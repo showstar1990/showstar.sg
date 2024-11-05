@@ -78,15 +78,16 @@ myIPTV/main/ipv6.m3u",
  "filterable": 1,
  "ext": "./json/BT天堂.json"
  },
+
 {
- "key": "音范丝",
- "name": "☪阿星🍎音范丝",
+ "key": "布谷TV",
+ "name": "☪阿星🍎布谷TV",
  "type": 3,
- "api": "csp_XPath",
+ "api": "csp_XBPQ",
  "searchable": 1,
- "quickSearch": 0,
- "changeable": 0,
- "ext": "./json/音范丝.json"
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./json/布谷TV.json"
  },
     {
       "key": "csp_星辰",
