@@ -60,13 +60,23 @@ myIPTV/main/ipv6.m3u",
     },
 {
  "key": "电影港",
- "name": "☪阿星🍎电影港磁力",
+ "name": "☪阿星🍎电影港",
  "type": 3,
  "api": "csp_XYQHiker",
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1,
  "ext": "./json/电影港.json"
+ },
+{
+ "key": "BT天堂",
+ "name": "☪阿星🍎BT天堂",
+ "type": 3,
+ "api": "csp_XYQHiker",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./json/BT天堂.json"
  },
     {
       "key": "csp_星辰",
