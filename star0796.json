@@ -87,14 +87,13 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/金牌影视.js"
     },
 {
-"key": "xb-foxiys",
-"name": "☪阿星🍎佛系影视",
+"key": "XBPQ_爱上电影",
+"name": "☪阿星🍎爱上电影",
 "type": 3,
 "api": "csp_XBPQ",
-"searchable": 1,
-"changeable": 1,
-"ext": "./json/佛系.json"
+"ext": "./json/爱上电影.json"
 },
+
 
 {
 "key": "csp_XYQHiker_电影牛影院",
