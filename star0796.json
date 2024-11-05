@@ -159,6 +159,28 @@ myIPTV/main/ipv6.m3u",
 "filterable": 1,
 "ext": "./json/KimiVod.json"
 },
+{
+"key": "奈飞中文",
+"name": "☪阿星🍎Netfly",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/nfzw.json"
+},
+
+{
+"key": "csp_xb_ysgc",
+"name": "☪阿星🍎影视工厂",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "./json/ysgc.json"
+}, 
+
 
     {
       "key": "hipy_js_采集之王",
