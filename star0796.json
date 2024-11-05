@@ -249,14 +249,14 @@ myIPTV/main/ipv6.m3u",
     },
 
 {
-"key":"笙歌影视",
-"name":"☪阿星🍎笙歌影视",
-"type":3,
-"api":"csp_AppYY",
-"searchable":1,
-"quickSearch":0,
-"changeable":0
-},
+ "key": "比特",
+ "name": "☪阿星🍎比特",
+ "type": 3,
+ "api": "csp_Bttwo",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1
+ },
 
 {
 "key": "csp_XYQHikerAL_玩偶哥哥",
