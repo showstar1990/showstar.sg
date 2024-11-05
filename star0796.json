@@ -87,13 +87,11 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/金牌影视.js"
     },
 {
-  "key": "真心影视",
-  "name": "☪阿星🍎真心影视",
-  "type": 3,
-  "api": "csp_WebGZ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+ "key": "XBPQ_导航影视",
+ "name": "阿星☪导航影视",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "ext": "./json/导航.json"
 },
 
 {
