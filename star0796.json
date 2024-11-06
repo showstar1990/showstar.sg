@@ -684,40 +684,53 @@ myIPTV/main/ipv6.m3u",
     },
     
     {
-			"key": "hipy_js_一支穿云箭",
-			"name": "☪阿星🍎穿云箭",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/一支穿云箭.js"
-		},
+     "key": "hipy_js_一支穿云箭",
+     "name": "☪阿星🍎穿云箭",
+     "type": 3,
+     "api": "./drpy_libs/drpy2.min.js",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "order_num": 0,
+     "ext": "./js/一支穿云箭.js"
+     },
+
     {
-			"key": "hipy_js_HDmoli",
-			"name": "☪阿星🍎HDmoli",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./js/HDmoli.js"
-		},
+     "key": "hipy_js_HDmoli",
+     "name": "☪阿星🍎HDmoli",
+     "type": 3,
+     "api": "./drpy_libs/drpy2.min.js",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "order_num": 0,
+     "ext": "./js/HDmoli.js"
+     },
    
-    {
-      "key": "hipy_js_多多追剧[优]",
-      "name": "☪阿星🍎多多追剧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/多多追剧[优].js"
-    },
-    
+{
+"key": "hipy_js_影剧星球",
+"name": "☪阿星🍎影剧星球",
+"type": 3,
+"api": "./drpy_libs/drpy2.min.js",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"order_num": 0,
+"ext": "./drpy_js/影剧星球.js"
+},
+
+{
+"key": "hipy_js_熊猫TV",
+"name": "☪阿星🍎熊猫TV",
+"type": 3,
+"api": "./drpy_libs/drpy2.min.js",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"order_num": 0,
+"ext": "./drpy_js/熊猫TV.js"
+},
+        
     {
       "key": "️爱看Bot弹幕版",
       "name": "☪阿星🍎爱看Bot",
