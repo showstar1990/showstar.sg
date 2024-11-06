@@ -1388,6 +1388,18 @@ myIPTV/main/ipv6.m3u",
       },
       "timeout": 20
     },
+{
+      "key": "自营666",
+      "name": "蓝光4K解析",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": " http://122.228.85.203:1000/api.php/app/","danMu": "http://dm.sds11.top/tdm.php?url="
+    },
+
 
 {
       "key": "我的阿里",
