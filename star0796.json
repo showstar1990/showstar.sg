@@ -479,15 +479,7 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/139YS.json"
 },
     
- {
-"key": "xbpq_电影兔",
-"name": "☪阿星🐰影兔",
-"type": 3,
-"api": "csp_XBPQ",
-"filterable": 1,
-"changeable": 1,
-"ext": "./json/影兔.json"
-},
+ 
 {
 "key": "xbpq_影梦",
 "name": "☪阿星💖影梦",
@@ -498,16 +490,7 @@ myIPTV/main/ipv6.m3u",
 "filterable": 1,
 "ext": "./json/影梦.json"
 },
-{
-"key": "csp_威士",
-"name": "☪阿星🍁VS影院",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./json/vsys.json"
-},   
+   
     {
       "key": "js_subaibai",
       "name": "☪阿星🏇素白影视",
