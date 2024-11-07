@@ -58,6 +58,49 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
+{
+      "key": "腾云驾雾",
+      "name": "拾光☪企鹅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾云驾雾[官].js"
+    },
+     {
+      "key": "百忙无果",
+      "name": "拾光☪芒果",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/百忙无果[官].js"
+    },
+     {
+      "key": "奇珍异兽",
+      "name": "拾光☪爱其意",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇珍异兽[官].js"
+    },
+    {
+      "key": "优酷",
+      "name": "拾光☪游酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷[官].js"
+    },
+     {
+      "key": "drpy_js_哔哩影视",
+      "name": "拾光☪Bili",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/bl.js"
+     },
+     {
+      "key": "360影视",
+      "name": "拾光☪360",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视[官].js"
+    },
+
 
 {
  "key": "电影港",
