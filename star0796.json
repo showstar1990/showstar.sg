@@ -293,7 +293,7 @@ myIPTV/main/ipv6.m3u",
 
 {
  "key": "比特",
- "name": "☪阿星🏇比特影视",
+ "name": "☪阿星🎯比特影视",
  "type": 3,
  "api": "csp_Bttwo",
  "searchable": 1,
@@ -302,7 +302,7 @@ myIPTV/main/ipv6.m3u",
  },
 
 {
-"key": "csp_XYQHikerAL_玩偶哥哥",
+"key": "csp_XYQHikerAL_玩偶哥哥❷",
 "name":"☪阿星🏇玩偶哥哥",
 "type":3,
 "api":"csp_XYQHikerAL",
@@ -463,7 +463,7 @@ myIPTV/main/ipv6.m3u",
     
 {
 "key": "18影视",
-"name": "☪阿星🏇18YS",
+"name": "☪阿星🏇18影视",
 "type": 3,
 "api": "csp_XBPQ",
 "ext": "./json/18YS.json"
@@ -471,7 +471,7 @@ myIPTV/main/ipv6.m3u",
 
 {
 "key": "xbpq_139影视",
-"name": "☪阿星🏇139YS",
+"name": "☪阿星🏇139影视",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -479,17 +479,7 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/139YS.json"
 },
     
- {
-"key": "hipy_js_蜥蜴影视[优]",
-"name": "☪阿星🐍蜥蜴影视[优]",
-"type": 3,
-"api": "./drpy_libs/drpy2.min.js",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"order_num": 0,
-"ext": "./drpy_js/蜥蜴影视[优].js"
-},   
+    
     {
       "key": "js_subaibai",
       "name": "☪阿星🏇素白影视",
@@ -1122,7 +1112,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "玩偶哥哥",
-      "name": "☪阿星🏇玩偶",
+      "name": "☪阿星🏇玩偶哥哥❶",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -1373,7 +1363,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "csp_XYQHiker_播视童趣",
-      "name": "☪阿星🏇童趣",
+      "name": "☪阿星🎠童趣",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
@@ -1421,7 +1411,7 @@ myIPTV/main/ipv6.m3u",
 
 {
       "key": "我的阿里",
-      "name": "☪阿星📲我的阿里",
+      "name": "☪阿星📹我的阿里",
       "type": 3,
       "api": "csp_MyAli",
       "searchable": 0,
@@ -1438,7 +1428,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "我的夸克",
-      "name": "☪阿星📲我的夸克",
+      "name": "☪阿星📹我的夸克",
       "type": 3,
       "api": "csp_MyQuark",
       "searchable": 0,
@@ -1455,7 +1445,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "我的UC",
-      "name": "☪阿星📲我的UC",
+      "name": "☪阿星📹我的UC",
       "type": 3,
       "api": "csp_MyUc",
       "searchable": 0,
@@ -1472,7 +1462,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "阿里合集",
-      "name": "☪阿星📲阿里合集",
+      "name": "☪阿星📹阿里合集",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
