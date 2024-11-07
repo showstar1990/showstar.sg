@@ -58,7 +58,6 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{"key":"芒果","name":"《忙菓🔹管源》","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/芒果.js"},
 
 {
  "key": "电影港",
