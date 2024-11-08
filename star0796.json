@@ -154,19 +154,20 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-"key":"yydsys",
-"name":"☪阿星🐈多多4K",
-"jar":"./lib/custom_spider.jar",
-"type": 3,
-"api": "csp_kongbai",
-"searchable": 1,
-"changeable": 0,
-"ext": {
-"commonConfig": "./lib/peizhi.json",
-"siteUrl": "https://tv.yydsys.top/",
-"filter": "./lib/wogg.json"
- }
- },
+      "key": "多多弹幕",
+      "name": "☪阿星🐈多多4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.top"
+      },
+      "timeout": 25
+    },
 
 {
 "key": "hipy_js_腾云驾雾[官]",
