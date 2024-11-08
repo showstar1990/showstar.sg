@@ -603,6 +603,18 @@ myIPTV/main/ipv6.m3u",
     },
 
     {
+      "key": "Hhys",
+      "name": "☪阿星🐺黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
+    },
+
+
+    {
       "key": "剧集",
       "name": "☪阿星🏇剧集",
       "type": 3,
