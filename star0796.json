@@ -154,21 +154,21 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-      "key": "雷电",
-      "name": "☪阿星⚡雷电4K",
-      "type": 3,
-      "api": "csp_Slys",
-      "playerType": 1,
-      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
-    },
-    {
-      "key": "柠檬",
-      "name": "☪阿星🍊柠檬4K",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-    },
+ "key": "人人",
+ "name": "人人┃ 4K",
+ "type": 3,
+ "api": "csp_Xdai",
+ "playerType": 2,
+ "ext": "caHR0cDovL2p4LmN1cGZveDEuY2M6NjY5OXwzMWM5M2M3YmMyMTFkNzM0fDMxYzkzYzdiYzIxMWQ3MzQ"
+ },
+{
+ "key": "雨滴",
+ "name": "雨滴┃App",
+ "type": 3,
+ "api": "csp_qiao3",
+ "playerType": 1,
+ "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
+},
 
 
 {
