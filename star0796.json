@@ -37,7 +37,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "配置中心",
-      "name": "☪阿星🌍配置",
+      "name": "☪阿星💾配置",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -52,7 +52,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "电视台",
-      "name": "☪阿星📻电视台",
+      "name": "☪阿星📺电视台",
       "type": 3,
       "api": "./lib/sdtv.js",
       "ext": "./lib/zb.txt",
@@ -72,23 +72,33 @@ myIPTV/main/ipv6.m3u",
  "ext": "./json/电影港.json"
  },
 
-    {
-      "key": "csp_星辰",
-      "name": "☪阿星✨星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xcys.json"
-    },
-    {
-      "key": "金牌影视",
-      "name": "☪阿星🏆金牌",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/金牌影视.js"
-    },
+{
+"key": "csp_胖虎",
+"name": "☪阿星🐯胖虎",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/胖虎.json"
+},
+{
+ "key": "csp_星辰",
+ "name": "☪阿星✨星辰影视",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./lib/xcys.json"
+ },
+ {
+ "key": "金牌影视",
+ "name": "☪阿星🏆金牌影视",
+ "type": 3,
+ "api": "./lib/drpy2.min.js",
+ "ext": "./lib/金牌影视.js"
+},
 {
 "key": "XBPQ_爱上电影",
 "name": "☪阿星💖爱上电影",
@@ -109,6 +119,15 @@ myIPTV/main/ipv6.m3u",
 "ext": "./drpy_js/人人影视.js"
 },
 
+{
+"key": "xbpq_牛逼新视觉",
+"name": "☪阿星🔭新视觉",
+"type": 3,
+"api": "csp_XBPQ",
+"playerType": 2,
+"playUrl": "https://t1.qlplayer.cyou/player/?url=",
+"ext": "./json/牛逼新视觉.json"
+},
 
 {
 "key": "hipy_js_多多追剧[优]",
@@ -143,18 +162,18 @@ myIPTV/main/ipv6.m3u",
 "filterable":0
 },
 
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "☪阿星🏇腾腾4K",
-      "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
-    },
+{
+"key": "hipy_js_腾云驾雾[官]",
+"name": "☪阿星🏇腾腾4K",
+ "type": 3,
+ "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "order_num": 0,
+ "changeable": 0,
+ "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
+ },
 
 {
 "key": "XBPQ_海豚",
@@ -267,7 +286,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "荐片",
-      "name": "☪阿星🏇荐P2P",
+      "name": "☪阿星🏇荐P2P影视",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -278,7 +297,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
       "key": "荐片弹幕版",
-      "name": "☪阿星🏇荐片",
+      "name": "☪阿星🏇荐片影视",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -302,8 +321,8 @@ myIPTV/main/ipv6.m3u",
  },
 
 {
-"key": "csp_XYQHikerAL_玩偶哥哥②",
-"name":"☪阿星🏇玩偶哥哥",
+"key": "csp_XYQHikerAL_玩偶哥哥",
+"name":"☪阿星🏇玩偶哥哥②",
 "type":3,
 "api":"csp_XYQHikerAL",
 "searchable":1,
@@ -1280,7 +1299,7 @@ myIPTV/main/ipv6.m3u",
     
     {
     "key":"四九影院",
-    "name":"☪阿星🏇四九影视",
+    "name":"☪阿星💎四九影视",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -1300,7 +1319,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "csp_New6v",
-      "name": "☪阿星🏇新6V",
+      "name": "☪阿星💎新6V",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -1311,7 +1330,7 @@ myIPTV/main/ipv6.m3u",
     
     {
       "key": "csp_KubaCL",
-      "name": "☪阿星🏇酷吧电影",
+      "name": "☪阿星💎酷吧电影",
       "type": 3,
       "api": "csp_KubaCL",
       "searchable": 1,
