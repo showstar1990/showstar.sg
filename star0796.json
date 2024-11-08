@@ -154,21 +154,29 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
- "key": "人人",
- "name": "人人┃ 4K",
- "type": 3,
- "api": "csp_Xdai",
- "playerType": 2,
- "ext": "caHR0cDovL2p4LmN1cGZveDEuY2M6NjY5OXwzMWM5M2M3YmMyMTFkNzM0fDMxYzkzYzdiYzIxMWQ3MzQ"
- },
-{
- "key": "雨滴",
- "name": "雨滴┃App",
- "type": 3,
- "api": "csp_qiao3",
- "playerType": 1,
- "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"
-},
+      "key": "gzys",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "ygys",
+      "name": "一个┃影视",
+      "type": 3,
+      "api": "csp_Pptv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://yigeg.pro",
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
 
 
 {
