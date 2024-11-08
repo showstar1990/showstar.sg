@@ -154,6 +154,24 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+      "key": "雷电",
+      "name": "☪阿星⚡雷电4K",
+      "type": 3,
+      "api": "csp_Slys",
+      "playerType": 1,
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+    {
+      "key": "柠檬",
+      "name": "☪阿星🍊柠檬4K",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+
+
+{
       "key": "多多弹幕",
       "name": "☪阿星🐈多多4K",
       "type": 3,
@@ -1368,7 +1386,7 @@ myIPTV/main/ipv6.m3u",
 		
   {
       "key": "布谷tv",
-      "name": "布谷┃磁力",
+      "name": "☪阿星🔱布谷磁力",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
