@@ -603,18 +603,6 @@ myIPTV/main/ipv6.m3u",
     },
 
     {
-      "key": "Hhys",
-      "name": "☪阿星🐺黑狐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
-    },
-
-
-    {
       "key": "剧集",
       "name": "☪阿星🏇剧集",
       "type": 3,
@@ -1143,16 +1131,15 @@ myIPTV/main/ipv6.m3u",
     },
     
     {
-      "key": "guoguo",
-      "name": "☪阿星🍒果果4K",
+      "key": "果果4K解析_js",
+      "name": "🌞果果4K(解析)",
       "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "api": "./drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+      "ext": "./drpy_libs/果果4K.js"
     },
     {
       "key": "木偶网盘",
