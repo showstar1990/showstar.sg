@@ -5,7 +5,7 @@
     "sites": [
             {
       "key": "meowtv_dtgx",
-      "name": "点击↓↓切换数据┃获取更多知识",
+      "name": "抖音┃show.star",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -15,7 +15,7 @@
     },
     {
       "key": "儿童",
-      "name": "🌟启蒙教育🌟",
+      "name": "📚启蒙教育📖",
       "type": 3,
       "api": "./jiaoyu_lib/ddrpy2.m.js",
       "searchable": 0,
@@ -29,7 +29,7 @@
     },
             {
       "key": "meowtv_sejy",
-      "name": "🌟学前教育🌟",
+      "name": "📚学前教育📖",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -43,7 +43,7 @@
     },
     {
       "key": "meowtv_xxkt",
-      "name": "🌟小学课堂🌟",
+      "name": "📚小学课堂📖",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -57,7 +57,7 @@
     },
     {
       "key": "meowtv_czkt",
-      "name": "🌟初中课堂🌟",
+      "name": "📚初中课堂📖",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -71,7 +71,7 @@
     },
     {
       "key": "meowtv_gzkt",
-      "name": "🌟高中课堂🌟",
+      "name": "📚高中课堂📖",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -83,9 +83,88 @@
       },
       "ext": "./jiaoyu_lib/高中课堂.json"
     },
+
+{
+      "key": "hipy_js_贝乐虎[儿]",
+      "name": "☪阿星🐯贝乐虎",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/贝乐虎[儿].js"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝",
+      "name": "☪阿星🐇兔小贝",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝.json"
+    },
+    {
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "☪阿星🐇兔贝儿",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝2.json"
+    },
+    {
+      "key": "csp_XYQHiker_播视童趣",
+      "name": "☪阿星🎠童趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/播视童趣.json"
+    },
+
+{
+      "key": "bili_学习园地",
+      "name": "☪阿星📚学习园地",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
+        "json": "./lib/学习园地.json"
+      },
+      "timeout": 20
+    },
+    {
+      "key": "bili_学外语",
+      "name": "☪阿星📚学外语",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt",
+        "json": "./lib/学外语.json"
+      },
+      "timeout": 20
+    },
         {
       "key": "meowtv_mgdh",
-      "name": "🌟芒果动画🌟",
+      "name": "📚芒果动画📖",
       "type": 3,
       "api": "./jiaoyu_lib/drpy2.min.js",
       "searchable": 1,
@@ -95,7 +174,7 @@
     },
         {
       "key": "meowtv_qydh",
-      "name": "🌟奇艺动画🌟",
+      "name": "📚奇艺动画📖",
       "type": 3,
       "api": "./jiaoyu_lib/drpy2.min.js",
       "searchable": 1,
@@ -105,7 +184,7 @@
     },
     {
       "key": "meowtv_txdh",
-      "name": "🌟腾讯动画🌟",
+      "name": "📚腾讯动画📖",
       "type": 3,
       "api": "./jiaoyu_lib/drpy2.min.js",
       "searchable": 1,
@@ -115,7 +194,7 @@
     },
     {
       "key": "meowtv_tqss",
-      "name": "🌟童趣搜视🌟",
+      "name": "📚童趣搜视📖",
       "type": 3,
       "api": "./jiaoyu_lib/drpy2.min.js",
       "searchable": 1,
@@ -125,7 +204,7 @@
     },
     {
       "key": "drpy_哔哩",
-      "name": "🌟哔哩合集🌟",
+      "name": "📚哔哩合集📖",
       "type": 3,
       "api": "./jiaoyu_lib/drpy2.min.js",
       "playerType": 1,
