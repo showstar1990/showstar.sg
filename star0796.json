@@ -60,7 +60,6 @@ myIPTV/main/ipv6.m3u",
     },
 
 
-
 {
  "key": "电影港",
  "name": "☪阿星🎦电影港",
@@ -152,31 +151,6 @@ myIPTV/main/ipv6.m3u",
 "quickSearch":0,
 "filterable":0
 },
-
-{
-      "key": "gzys",
-      "name": "瓜子┃影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
-      "key": "ygys",
-      "name": "一个┃影视",
-      "type": 3,
-      "api": "csp_Pptv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://yigeg.pro",
-      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
 
 
 {
@@ -615,7 +589,51 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/电影先生.js"
     },
     
-    
+    {
+      "key": "ygys",
+      "name": "☪阿星🔶一个G影视",
+      "type": 3,
+      "api": "csp_Pptv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://yigeg.pro",
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+
+{
+      "key": "tvys",
+      "name": "☪阿星🗼TVB影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
+    },
+    {
+      "key": "Hhys",
+      "name": "☪阿星🐺黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
+    },
+    {
+      "key": "55ys",
+      "name": "☪阿星🔯五五影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=wwys"
+    },
+
+
     {
       "key": "剧集",
       "name": "☪阿星🏇剧集",
