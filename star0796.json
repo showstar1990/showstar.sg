@@ -154,6 +154,19 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+ "key": "小满万全",
+ "name": "🌀小满万全┃4K纯净",
+ "type": 3,
+ "api": "https://gitee.com/showstar0796/showstar.sg/raw/master/moyu_lib/drpy.min.js",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "order_num": 0,
+ "changeable": 0,
+ "ext": "https://gitee.com/showstar0796/showstar.sg/raw/master/moyu_js/mgtv.js"
+},
+
+{
 "key": "hipy_js_腾云驾雾[官]",
 "name": "☪阿星🏇腾腾4K",
  "type": 3,
