@@ -60,12 +60,14 @@ myIPTV/main/ipv6.m3u",
     },
 
 {
-      "key": "爱奇艺",
-      "name": "爱奇艺｜视频",
-      "type": 3,
-      "api": "./xiaosa_JS/drpy2.min.js",
-      "ext": "./lib/爱奇艺.js"
-    },
+ "key": "真心影视",
+ "name": "真心｜影视",
+ "type": 3,
+ "api": "csp_WebGZ",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1
+ },
 
 {
  "key": "电影港",
