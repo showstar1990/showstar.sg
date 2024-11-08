@@ -154,6 +154,21 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+"key":"yydsys",
+"name":"☪阿星🐈多多4K",
+"jar":"./lib/custom_spider.jar",
+"type": 3,
+"api": "csp_kongbai",
+"searchable": 1,
+"changeable": 0,
+"ext": {
+"commonConfig": "./lib/peizhi.json",
+"siteUrl": "https://tv.yydsys.top/",
+"filter": "./lib/wogg.json"
+ }
+ },
+
+{
 "key": "hipy_js_腾云驾雾[官]",
 "name": "☪阿星🏇腾腾4K",
  "type": 3,
