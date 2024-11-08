@@ -132,16 +132,17 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-"key": "hipy_js_PTT追剧大师",
-"name": "☪阿星🚁PTT追剧大师",
+"key": "hipy_js_PTT[优]",
+"name": "☪阿星🚁PTT[优]",
 "type": 3,
 "api": "./drpy_libs/drpy2.min.js",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
 "order_num": 0,
-"ext": "./drpy_js/PTT追剧大师.js"
+"ext": "./drpy_js/PTT[优].js"
 },
+
 {
 "key": "csp_XYQHiker_电影牛影院",
 "name": "阿星🐂牛影院",
