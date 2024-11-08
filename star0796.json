@@ -59,9 +59,17 @@ myIPTV/main/ipv6.m3u",
       "jar": "./lib/sdtv.jar"
     },
 
-
-
 {
+ "key": "洽洽影视",
+ "name": "洽洽｜APP",
+ "type": 3,
+ "api": "csp_AppGZ",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1
+ },
+
+
  "key": "电影港",
  "name": "☪阿星🎦电影港",
  "type": 3,
