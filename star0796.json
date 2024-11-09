@@ -58,27 +58,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{
-  "key": "真心影视",
-  "name": "☪阿星💖真心影视",
-  "type": 3,
-  "api": "csp_WebGZ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "./lib/xmbjm.jar"
 
- },
-{
- "key": "洽洽影视",
- "name": "☪阿星💎洽洽APP",
- "type": 3,
- "api": "csp_AppGZ",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "jar": "./lib/xmbjm.jar"
- },
 
 {
  "key": "电影港",
@@ -244,6 +224,15 @@ myIPTV/main/ipv6.m3u",
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://rzys.xyz/"
+    },
+{
+      "key": "真心影视",
+      "name": "真心｜影视",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 
 {
