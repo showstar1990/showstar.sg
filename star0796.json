@@ -70,17 +70,7 @@ myIPTV/main/ipv6.m3u",
  "filterable": 1,
  "ext": "./json/电影港.json"
  },
-{
-      "key": "真心影视",
-      "name": "真心｜影视",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": 
-      "https://gitee.com/showstar0796/showstar.sg/blob/master/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-    },
+
 
 {
  "key": "csp_星辰",
