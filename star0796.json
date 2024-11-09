@@ -1,6 +1,5 @@
 {
   "spider": "./xmbjm.jar",
-  "spider": "./spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://4708.kstore.space/logo.gif",
 
@@ -50,16 +49,7 @@ myIPTV/main/ipv6.m3u",
       }
     },
 
-    {
-      "key": "真心影视",
-      "name": "真心｜影视",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
+    
     {
       "key": "电视台",
       "name": "☪阿星📺电视台",
@@ -80,7 +70,17 @@ myIPTV/main/ipv6.m3u",
  "filterable": 1,
  "ext": "./json/电影港.json"
  },
-
+{
+      "key": "真心影视",
+      "name": "真心｜影视",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      "jar": 
+      "https://gitee.com/showstar0796/showstar.sg/blob/master/spider.jar",
+    },
 
 {
  "key": "csp_星辰",
