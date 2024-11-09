@@ -1667,7 +1667,39 @@ myIPTV/main/ipv6.m3u",
           "sohu",
           "xigua",
           "fun",
-          "风行"
+          "风行",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip",
+          "ltnb",
+          "rrmj",
+          "gzsp",
+          "ST4K",
+          "NBY",
+          "BBA",
+          "rx",
+          "4kvip",
+          "m78",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "QEYSS",
+          "LS",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "CL4K",
+          "renrenmi"
+
         ]
       },
       "header": {
@@ -1702,51 +1734,6 @@ myIPTV/main/ipv6.m3u",
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name": "8090嗅探","type": 0,"url": "https://www.8090g.cn/jiexi/?url="}, 
-
-{
-      "name":"-关注小橙子-",
-      "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
-    },
-    {
-      "name":"-XCZ-",
-      "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
-    },
-    {
-      "name":"-WZXXCZ-",
-      "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
-    },
-    {
-      "name":"WZXWKX",
-      "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=4&url="
-    },
-    {
-      "name":"小橙子解析2",
-      "type":1,
-      "url":"https://jxjson.icu/neibu.php?url="
-    },
-    {
-      "name":"-WKXWZX-",
-      "type":1,
-      "url":"http://jx.lengai.love/ld/?url="
-    },
-    {
-      "name":"-kx解析-",
-      "type":0,
-      "url":"https://www.8090g.cn/?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
-    },
-    {
-      "name": "-小橙子全看-",
-      "type":0,
-      "url":"https://jx.quankan.app/?url=",
-      "ext":{
-	      "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
-
 
 {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 
