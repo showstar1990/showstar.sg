@@ -66,6 +66,8 @@ myIPTV/main/ipv6.m3u",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
+  "jar": "./lib/xmbjm.jar"
+
  },
 {
  "key": "洽洽影视",
@@ -75,6 +77,7 @@ myIPTV/main/ipv6.m3u",
  "searchable": 1,
  "quickSearch": 1,
  "filterable": 1
+ "jar": "./lib/xmbjm.jar"
  },
 
 {
