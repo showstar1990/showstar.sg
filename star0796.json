@@ -58,15 +58,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{
-      "key": "真心影视",
-      "name": "❤️真心影视",
-      "type": 3,
-      "api": "csp_WebGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 
 {
  "key": "电影港",
@@ -203,6 +195,18 @@ myIPTV/main/ipv6.m3u",
 "api": "csp_XBPQ",
 "ext": "./json/海豚.json"
 },
+
+{
+      "key": "真心影视",
+      "name": "真心｜影视",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      "jar": "https://gitee.com/showstar0796/showstar.sg/blob/master/spider.jar"
+    },
+
     {
       "key": "瓜子",
       "name": "☪阿星🍉瓜子app",
