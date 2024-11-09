@@ -5562,7 +5562,7 @@ myIPTV/main/ipv6.m3u",
       ]
     }
   ],
-  "rules": [
+ 
       {
       "name": "svip",
       "type": 1,
