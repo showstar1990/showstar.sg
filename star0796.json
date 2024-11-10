@@ -187,6 +187,7 @@ myIPTV/main/ipv6.m3u",
       "key": "小满万全",
       "name": "☪阿星🌻小满万全",
       "type": 3,
+      "jar": "./jar/moyu.jar",
       "api": "./star_lib/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -195,6 +196,7 @@ myIPTV/main/ipv6.m3u",
       "changeable": 0,
       "ext": "./star_lib/mgtv.js"
     },
+
 
 
 {
