@@ -117,6 +117,17 @@ myIPTV/main/ipv6.m3u",
 "order_num": 0,
 "ext": "./drpy_js/人人影视.js"
 },
+{
+ "key":"csp_xBPQ_全能影院",
+ "name":"☪阿星💯全能影院",
+ "type":3,
+ "api":"csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"./json/全能影视.json"
+  },
+
 
 {
 "key": "xbpq_牛逼新视觉",
