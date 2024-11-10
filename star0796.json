@@ -593,7 +593,7 @@ myIPTV/main/ipv6.m3u",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./1024/可可影视.json",
+            "ext": "./json/可可影视.json",
             "jar": "./jar/xyqxbpq.jar"
         },
 {
@@ -1307,18 +1307,6 @@ myIPTV/main/ipv6.m3u",
       "timeout": 25
     },
 
-     
-    {
-    "key":"森林影院",
-    "name":"☪阿星🌳森林影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./0831/森林影院.json"
-    },
-    
     
     {
     "key":"94影院",
@@ -1328,7 +1316,7 @@ myIPTV/main/ipv6.m3u",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./0831/94影院.json"
+    "ext":"./json/94影院.json"
     },
     
     
@@ -1341,7 +1329,7 @@ myIPTV/main/ipv6.m3u",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./0831/理理影院.json"
+    "ext":"./json/理理影院.json"
     },
     
     {
@@ -1352,7 +1340,7 @@ myIPTV/main/ipv6.m3u",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./1024/49影视网.json"
+    "ext":"./json/49影视网.json"
     },
     
      {
