@@ -1218,17 +1218,7 @@ myIPTV/main/ipv6.m3u",
       ]
     },
     
-    {
-      "key": "果果4K解析_js",
-      "name": "🌞果果4K(解析)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./drpy_libs/果果4K.js"
-    },
+    
     {
       "key": "木偶网盘",
       "name": "☪阿星🏇木偶",
@@ -1315,23 +1305,7 @@ myIPTV/main/ipv6.m3u",
       },
       "timeout": 30
     },
-    {
-      "key": "土豆网盘",
-      "name": "☪阿星🍟土豆",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
-        "site": "https://yunpan.yunpay.cc/",
-        "danmu": true
-      },
-      "timeout": 25
-    },
+    
     {
       "key": "云星网盘",
       "name": "☪阿星🌟云星",
