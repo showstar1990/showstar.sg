@@ -1687,6 +1687,35 @@ myIPTV/main/ipv6.m3u",
       "type": 3,
       "url": "Web"
     },
+{
+      "name":"小橙子解析",
+      "type":"1",
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
+      "ext":{
+	      "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","TX","MXTV","mytv","nmys","yhdm","BNNB","letu","DJWB","DJWX","DJWT","duanju"],"header":{"User-Agent":"Dalvik/2.1.0"}
+            }
+    },
+    {
+      "name":"-关注小橙子-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
+    },
+    {
+      "name":"-☪阿星1✨-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
+    },
+    {
+      "name":"-WZXXCZ-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
+    },
+    {
+      "name":"WZXWKX",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=4&url="
+    },
+
       {
       "name": "-m3u8TV-",
       "type": 0,
