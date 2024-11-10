@@ -59,6 +59,49 @@ myIPTV/main/ipv6.m3u",
       "jar": "./lib/sdtv.jar"
     },
 {
+      "key": "爱奇",
+      "name": "☪阿星💘爱奇",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/爱奇艺.js"
+    },
+    {
+      "key": "游酷",
+      "name": "☪阿星🌾优酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
+    {
+      "key": "企鹅",
+      "name": "☪阿星🐧企鹅",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/腾讯VIP.js"
+    },
+    {
+      "key": "芒果",
+      "name": "☪阿星🍋恾果",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/芒果.js"
+    },
+    {
+      "key": "艘狗",
+      "name": "☪阿星😽艘狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/搜狗.js"
+    },
+    {
+      "key": "360影视",
+      "name": "☪阿星⚓360剧",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视[官].js"
+    },
+
+{
       "key": "真心影视",
       "name": "☪阿星🎀瓜子影视",
       "type": 3,
