@@ -1691,15 +1691,37 @@ myIPTV/main/ipv6.m3u",
   ],
   "parses": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
+      "name": "摸鱼追觅解析",
+      "type": 1,
+      "url": "http://110.40.61.139:4655/zhuimi666.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "mgtv",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
+      "name": "芒果4k",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+
 
 {
       "name":"-☪阿星①✨-",
