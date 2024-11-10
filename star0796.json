@@ -940,7 +940,82 @@ myIPTV/main/ipv6.m3u",
       }
     },
     
+    {
+ "key":"csp_xBPQ_丽宫影院",
+ "name":"☪阿星💠丽宫影院",
+ "type":3,
+ "api":"csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"./json/丽宫影院.json"
+  },
+
+{
+    "key":"94影院",
+    "name":"☪阿星🎬九四影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./json/94影院.json"
+    },
     
+    
+    
+    {
+    "key":"理理影院",
+    "name":"☪阿星🏇理理影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./json/理理影院.json"
+    },
+    
+
+     {
+      "key": "csp_Mp4Mov",
+      "name": "☪阿星🎬Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_New6v",
+      "name": "☪阿星💎新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    
+    {
+      "key": "csp_KubaCL",
+      "name": "☪阿星💎酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+    {
+      "key": "csp_Xunlei8",
+      "name": "☪阿星⚡迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
     {
       "key": "VIP影视",
       "name": "☪阿星🎦VIP秒播",
@@ -1310,81 +1385,7 @@ myIPTV/main/ipv6.m3u",
       "timeout": 25
     },
 
-    
-    {
-    "key":"94影院",
-    "name":"☪阿星🎬九四影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/94影院.json"
-    },
-    
-    
-    
-    {
-    "key":"理理影院",
-    "name":"☪阿星🏇理理影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/理理影院.json"
-    },
-    
-    {
-    "key":"四九影院",
-    "name":"☪阿星💎四九影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"./json/49影视网.json"
-    },
-    
-     {
-      "key": "csp_Mp4Mov",
-      "name": "☪阿星🎬Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_New6v",
-      "name": "☪阿星💎新6V",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    
-    {
-      "key": "csp_KubaCL",
-      "name": "☪阿星💎酷吧电影",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "csp_Xunlei8",
-      "name": "☪阿星⚡迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
+       
 
     {
  "key": "BT天堂",
