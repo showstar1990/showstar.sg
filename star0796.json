@@ -1677,13 +1677,6 @@ myIPTV/main/ipv6.m3u",
 
   ],
   "parses": [
-{
-      "name":"-☪阿星✨解析①-",
-      "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
-    },
-
-
     {
       "name": "聚合1",
       "type": 3,
@@ -1704,6 +1697,12 @@ myIPTV/main/ipv6.m3u",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
+{
+      "name":"-☪阿星✨解析①-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
+    },
+
     {
 			"name": "☪阿星✨"解析②,
 			"type": 1,
