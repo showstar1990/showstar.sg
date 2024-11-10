@@ -65,13 +65,18 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
     },
-    {
-      "key": "游酷",
-      "name": "☪阿星🌾优酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
+    
+{
+ "key": "js_优酷",
+ "name": "☪阿星🌾优酷",
+ "type": 3,
+ "api": "./star_lib/drpy2.min.js",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": "./star_lib/youku.js"
+},
+
     {
       "key": "企鹅",
       "name": "☪阿星🐧企鹅",
