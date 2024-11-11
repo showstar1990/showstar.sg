@@ -79,9 +79,9 @@ myIPTV/main/ipv6.m3u",
     },
 {
   "key": "优酷",
-  "name": "☪阿星🍊优酷(官备)",
+  "name": "☪阿星🍊游酷",
   "type": 3,
-  "api": "./lib/drpy2.min.js",
+  "api": "./star_lib/drpy2.min.js",
   "ext": "./lib/优酷.js"
 },
 
@@ -229,16 +229,6 @@ myIPTV/main/ipv6.m3u",
 "ext": "./drpy_js/多多追剧[优].js"
 },
 
-{
-"key": "csp_XYQHiker_电影牛影院",
-"name": "阿星🐂牛影院",
-"type": 3,
-"api": "csp_XYQHiker",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./json/电影牛影院.json"
-},
 
 {
 "key":"大米星球",
