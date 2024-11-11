@@ -83,7 +83,7 @@ myIPTV/main/ipv6.m3u",
       "key": "drpy_优酷",
       "name": "👑优库┃影视",
       "type": 3,
-      "api": "./star_lib/drpy3.min.js",
+      "api": "./star_lib/drpy2.min.js",
       "ext": "./star_lib/yktv.js"
     },
 
