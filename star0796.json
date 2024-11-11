@@ -17,12 +17,12 @@ myIPTV/main/ipv6.m3u",
       "key": "lf_js_search",
       "name": "🐎抖音show.star☪阿星",
       "type": 3,
+      "jar": "./jar/pg1.jar",
       "searchable": 0,
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "api": "./star_lib/lf_search3_min.js"
-      "jar": "./jar/pg.jar",
     },
     
     
@@ -78,14 +78,14 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
     },
-
- {
+{
       "key": "drpy_js_优酷1",
-      "name": "☪阿星🚢游酷 ",
+      "name": "☪阿星🚢游酷",
       "type": 3,
       "api": "./star_lib/drpy3.min.js",
       "ext": "./lib/youku.js"
     },
+ 
     {
       "key": "企鹅",
       "name": "☪阿星🐧企鹅",
