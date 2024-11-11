@@ -60,7 +60,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
 	"key": "sansan",
-	"name": "☪阿星影视解析",
+	"name": "☪阿星✨影视解析",
 	"type": 3,
         "jar": "./jar/xcz.jar",
 	"api": "csp_SP33",
@@ -77,6 +77,14 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
     },
+{
+  "key": "优酷",
+  "name": "☪阿星🍊优酷(官备)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/优酷.js"
+},
+
     
     {
       "key": "企鹅",
@@ -92,7 +100,14 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/芒果.js"
     },
-    
+    {
+  "key": "优酷",
+  "name": "☪阿星🍊优酷",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/优酷.js"
+},
+
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
@@ -273,16 +288,6 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/芒果视频.js"
     },
 
-{
-      "key": "Wexkoukou",
-      "name": "☪阿星🐃牛娃扣扣①",
-      "type": 3,
-      "jar": "./jar/wex.txt",
-      "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     
 
 {
@@ -1775,7 +1780,7 @@ myIPTV/main/ipv6.m3u",
   "parses": [
 {"name":"超级并发","type":3,"url":"Demo"},
 {
-    	"name":"a",
+    	"name":"☪阿星⒈✨",
     	"type":0,
     	"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
     	}}},           
