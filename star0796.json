@@ -243,24 +243,13 @@ myIPTV/main/ipv6.m3u",
 
 {
       "key": "Wexkoukou",
-      "name": "☪阿星🐃牛娃扣扣①",
+      "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "jar": "./lib/wex.txt",
       "api": "csp_Wexkoukou",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Wexkoukou2",
-      "name": "☪阿星🐃牛娃扣扣②",
-      "type": 3,
-      "api": "csp_Wexkoukou2",
-      "jar": "./lib/wex.jar",
-      "searchable": 1,
       "changeable": 1
     },
-
 
 {
       "key": "玩偶哥哥",
