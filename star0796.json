@@ -1833,37 +1833,37 @@ myIPTV/main/ipv6.m3u",
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "zhuimi-super",
-      "type": 1,
-      "url": "http://110.40.61.139:4655/zhuimi666.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
+			"name": "ICU",
+			"type": 1,
+			"url": "https://jxjson.icu/neibu.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
 
-	],
-	"header": {
-	        "User-Agent": "okhttp/4.9.1"
-	}
-   }
-},
-{
+
+	                               ],
+	                               "header": {
+	                               "User-Agent": "okhttp/4.9.1"
+	                               }
+                                    }
+                                },
+                       {
 			"name": "QJ",
 			"type": 1,
 			"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
