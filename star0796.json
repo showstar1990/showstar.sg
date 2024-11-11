@@ -15,7 +15,7 @@ myIPTV/main/ipv6.m3u",
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "🐎抖音show.star☪阿星",
+      "name": "♪抖音show.star☪阿星🐎",
       "type": 3,
       "jar": "./jar/pg1.jar",
       "searchable": 0,
@@ -266,7 +266,7 @@ myIPTV/main/ipv6.m3u",
 
   {
       "key": "醉挽清风",
-      "name": "🌀醉挽清风┃4K弹幕",
+      "name": "☪阿星🌴醉挽清风",
       "type": 3,
       "api": "./moyu_lib/apiv209drpy.min.js",
       "searchable": 1,
@@ -277,7 +277,7 @@ myIPTV/main/ipv6.m3u",
     },
     {
       "key": "小满万全",
-      "name": "🌀小满万全┃4K纯净",
+      "name": "☪阿星🌼小满万全",
       "type": 3,
       "api": "./moyu_lib/apiv209drpy.min.js",
       "searchable": 1,
@@ -286,25 +286,6 @@ myIPTV/main/ipv6.m3u",
       "order_num": 0,
       "changeable": 0,
       "ext": "./moyu_lib/mgtv.js"
-    },
-
-  {
-      "key": "Wexkoukou",
-      "name": "牛娃扣扣1┃经常会挂",
-      "type": 3,
-      "api": "csp_Wexkoukou",
-      "jar": "./wangerxiao_lib/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexkoukou2",
-      "name": "牛娃扣扣2┃经常会挂",
-      "type": 3,
-      "api": "csp_Wexkoukou2",
-      "jar": "./wangerxiao_lib/wex.txt",
-      "searchable": 1,
-      "changeable": 1
     },
 
 
