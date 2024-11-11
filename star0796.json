@@ -79,14 +79,6 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/爱奇艺.js"
     },
 
-{
-      "key": "drpy_优酷",
-      "name": "👑优库┃影视",
-      "type": 3,
-      "api": "./star_lib/drpy2.min.js",
-      "ext": "./star_lib/yktv.js"
-    },
-
     {
       "key": "企鹅",
       "name": "☪阿星🐧企鹅",
@@ -1841,35 +1833,37 @@ myIPTV/main/ipv6.m3u",
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-			"name": "-☪阿星⑤✨",
-			"type": 1,
-			"url": "https://jxjson.icu/neibu.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
+      "name": "zhuimi-super",
+      "type": 1,
+      "url": "http://110.40.61.139:4655/zhuimi666.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+
+	],
+	"header": {
+	        "User-Agent": "okhttp/4.9.1"
+	}
+   }
+},
+{
 			"name": "QJ",
 			"type": 1,
 			"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
