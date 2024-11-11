@@ -170,7 +170,27 @@ myIPTV/main/ipv6.m3u",
  "filterable":1,
  "ext":"./json/全能影视.json"
   },
-
+{
+  "key": "天堂蓝光",
+  "name": "☪阿星🧿天堂蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/影院蓝光.json"
+},
+{
+  "key": "七新电影网_js",
+  "name": "☪阿星🌼七新电影网",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "./lib/七新电影网.js"
+},
 
 {
 "key": "xbpq_牛逼新视觉",
