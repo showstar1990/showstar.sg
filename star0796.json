@@ -268,13 +268,26 @@ myIPTV/main/ipv6.m3u",
       "key": "醉挽清风",
       "name": "🌀醉挽清风┃4K弹幕",
       "type": 3,
-      "api": "./lib/apiv209drpy.min.js",
+      "api": "./moyu_lib/apiv209drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./lib/qingfeng.js"
+      "ext": "./moyu_lib/qingfeng.js"
     },
+    {
+      "key": "小满万全",
+      "name": "🌀小满万全┃4K纯净",
+      "type": 3,
+      "api": "./moyu_lib/apiv209drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "./moyu_lib/mgtv.js"
+    },
+
   
 
 {
