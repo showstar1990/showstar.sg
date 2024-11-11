@@ -264,7 +264,19 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/芒果视频.js"
     },
 
-    
+  {
+      "key": "醉挽清风",
+      "name": "🌀醉挽清风┃4K弹幕",
+      "type": 3,
+      "jar": "./jar/moyu.php",
+      "api": "./lib/apiv209drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/qingfeng.js"
+    },
+  
 
 {
       "key": "玩偶哥哥",
