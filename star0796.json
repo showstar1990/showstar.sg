@@ -288,7 +288,25 @@ myIPTV/main/ipv6.m3u",
       "ext": "./moyu_lib/mgtv.js"
     },
 
-  
+  {
+      "key": "Wexkoukou",
+      "name": "牛娃扣扣1┃经常会挂",
+      "type": 3,
+      "api": "csp_Wexkoukou",
+      "jar": "./wangerxiao_lib/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexkoukou2",
+      "name": "牛娃扣扣2┃经常会挂",
+      "type": 3,
+      "api": "csp_Wexkoukou2",
+      "jar": "./wangerxiao_lib/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
+
 
 {
       "key": "玩偶哥哥",
