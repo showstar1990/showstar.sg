@@ -60,7 +60,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
 	"key": "sansan",
-	"name": "☪阿星影视解析",
+	"name": "☪阿星✨解析",
 	"type": 3,
         "jar": "./jar/xcz.jar",
 	"api": "csp_SP33",
@@ -77,6 +77,13 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
     },
+{
+  "key": "优酷",
+  "name": "☪阿星⏩游酷",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/优酷.js"
+
     
     {
       "key": "企鹅",
@@ -85,6 +92,7 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾讯VIP.js"
     },
+
     {
       "key": "芒果",
       "name": "☪阿星🍋芒粿",
@@ -92,10 +100,18 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/芒果.js"
     },
+{
+  "key": "搜狗",
+  "name": "☪阿星🐕艘狗",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/菜狗.js"
+},
+
     
     {
       "key": "360影视",
-      "name": "☪阿星⚓360剧",
+      "name": "☪阿星⚓三六凌",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视[官].js"
@@ -171,7 +187,15 @@ myIPTV/main/ipv6.m3u",
  "ext":"./json/全能影视.json"
   },
 
-
+{
+  "key":"DYDS",
+  "name":"‍☪阿星🎥电影大师",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
+  "分类url":"https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "分类":"电影$1#电视剧$3#动漫$4#综艺$23"}
+},
 {
 "key": "xbpq_牛逼新视觉",
 "name": "☪阿星🔭新视觉",
@@ -203,6 +227,29 @@ myIPTV/main/ipv6.m3u",
 "quickSearch": 1,
 "filterable": 1,
 "ext": "./json/电影牛影院.json"
+},
+
+{
+  "key": "七新电影网_js",
+  "name": "👨‍🍳‍七新电影网",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "./lib/七新电影网.js"
+},
+
+{
+  "key": "天堂蓝光",
+  "name": "🧿天堂蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/影院蓝光.json"
 },
 
 {
@@ -252,18 +299,7 @@ myIPTV/main/ipv6.m3u",
       "api": "./star_lib/drpy2.min.js",
       "ext": "./lib/芒果视频.js"
     },
-
-{
-      "key": "Wexkoukou",
-      "name": "☪阿星🐃牛娃扣扣①",
-      "type": 3,
-      "jar": "./jar/wex.txt",
-      "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
+  
 
 {
       "key": "玩偶哥哥",
@@ -594,7 +630,7 @@ myIPTV/main/ipv6.m3u",
     },
 {
   "key": "csp_xml_天空",
-  "name": "☪阿星🌞天空影视",
+  "name": "☪阿星🌞天空资源",
   "type": 1,
   "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
   "searchable": 1,
@@ -633,6 +669,43 @@ myIPTV/main/ipv6.m3u",
         "欧美综艺"
       ]
 },
+{
+      "key": "U酷",
+      "name": "☪阿星🍊U酷资源",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://api.ukubf.com/m3u8/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+},	  
+
 
 {
       "key": "蚂蚁",
