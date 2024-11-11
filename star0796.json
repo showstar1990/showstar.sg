@@ -82,7 +82,7 @@ myIPTV/main/ipv6.m3u",
   "name": "☪阿星🍊游酷",
   "type": 3,
   "api": "./star_lib/drpy2.min.js",
-  "ext": "./lib/优酷.js"
+  "ext": "./star_lib/优酷.js"
 },
 
     
