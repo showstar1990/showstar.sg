@@ -83,17 +83,6 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
- "key": "hipy_js_PTT追剧大师",
- "name": "☪阿星🎦PTT追剧大师(drpy_t3)",
- "type": 3,
- "api": "./star_lib/drpy2.min.js",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "order_num": 0,
- "ext": "./lib/PTT追剧大师.js"
- },
-{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
@@ -148,7 +137,7 @@ myIPTV/main/ipv6.m3u",
 
 {
       "key": "真心影视",
-      "name": "☪阿星🍈西瓜子",
+      "name": "☪阿星🍈西瓜",
       "type": 3,
       "jar": "./jar/spider.jar",
       "api": "csp_WebGZ",
@@ -1961,14 +1950,47 @@ myIPTV/main/ipv6.m3u",
           "1905",
           "xigua"
 
+          ],
 
 
-	                               ],
-	                               "header": {
-	                               "User-Agent": "okhttp/4.9.1"
-	                               }
-                                    }
-                                },
+	     "header": {
+	     "User-Agent": "okhttp/4.9.1"
+	     }
+           }
+         },
+
+           {
+            "name": "☪阿星✨1080解析",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+
+
+
                        {
 			"name": "QJ",
 			"type": 1,
