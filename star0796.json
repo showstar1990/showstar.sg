@@ -70,6 +70,16 @@ myIPTV/main/ipv6.m3u",
 	"changeable": 0
 },
 
+{
+"key": "Xbpq_1080kkk影城",
+"name": "☪阿星🔯1080K",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/1080kkk影城.json"
+},
 
 {
       "key": "爱奇",
@@ -670,7 +680,7 @@ myIPTV/main/ipv6.m3u",
 
 {
   "key":"8号影院",
-  "name": "🏅8号影院",
+  "name": "☪阿星🏅8号影院",
   "type":3,
   "api":"csp_XBPQ",
   "searchable":1,
@@ -678,12 +688,30 @@ myIPTV/main/ipv6.m3u",
   "filterable":1,
   "ext":{
 	  "搜索url":"http://www.soutiyi.com/search.php?searchword={wd}",
-	  "搜索链接":"href=\"&&\"","简介":"小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>",
+	  "搜索链接":"href=\"&&\"","简介":"☪阿星✨提醒您，请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>",
 	  "线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>",
 	  "线路标题":"☪阿星✨+","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
 	  "分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
        }
 },
+
+{
+			"key": "xbpq_爱碟影院",
+			"name": "☪阿星🎥iDVD影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": {
+				"线路数组": "<h2 class=\"tit*\">&&</div>",
+				"线路标题": "☪阿星✨+>&&</h2",
+				"搜索url": "https://www.idvd.cc/search/?wd={wd}",
+				"搜索链接": "href=\"&&\"",
+				"嗅探词": ".m3u8",
+				"分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+				"分类": "电影&电视剧&动漫&综艺",
+				"分类值": "xiju&dianshiju&dongman&zongyi",
+				"类型": "动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing||国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju||空||空"
+			}
+		},
 {
       "key": "蚂蚁",
       "name": "☪阿星🐜蚂蚁影视",
