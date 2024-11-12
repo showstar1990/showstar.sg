@@ -453,7 +453,18 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/nfzw.json"
 },
 
-
+{
+      "key": "csp_饭团",
+      "name": "☪阿星🍙饭团影院",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_FanTuan",
+      "playerType": 2,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "https://fantuan.vip/"
+    },
 {
  "key":"csp_xBPQ_旋风影院",
  "name":"☪阿星⛵旋风影院",
