@@ -69,7 +69,15 @@ myIPTV/main/ipv6.m3u",
 	"quickSearch": 1,
 	"changeable": 0
 },
-
+{
+      "key": "Wexkoukou",
+      "name": "🌺扣扣｜全能",
+      "type": 3,
+      "api": "csp_Wexkoukou",
+      "jar": "./jar/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
 
 {
       "key": "爱奇",
