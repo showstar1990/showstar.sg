@@ -69,15 +69,7 @@ myIPTV/main/ipv6.m3u",
 	"quickSearch": 1,
 	"changeable": 0
 },
-{
-      "key": "Wexkoukou",
-      "name": "🌺扣扣｜全能",
-      "type": 3,
-      "api": "csp_Wexkoukou",
-      "jar": "https://gitee.com/showstar0796/showstar.sg/blob/master/jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
-    },
+
 
 {
       "key": "爱奇",
@@ -295,7 +287,21 @@ myIPTV/main/ipv6.m3u",
       "changeable": 0,
       "ext": "./moyu_lib/mgtv.js"
     },
-
+{
+			"key": "ISZ自营666",
+			"name": "☪阿星🐢甲子",
+			"type": 3,
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "./lib/甲子.js",
+			"ext": {
+				"host": "http://122.228.85.203:1000/api.php/app/",
+				"*": [
+					"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+				]
+			}
+		},
 
 {
       "key": "玩偶哥哥",
