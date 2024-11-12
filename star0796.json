@@ -15,7 +15,7 @@ myIPTV/main/ipv6.m3u",
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "🇨🇳 【抖音号♪show.star】☪阿星✨",
+      "name": "🇨🇳 抖音号♪show.star☪阿星✨",
       "type": 3,
       "jar": "./jar/pg1.jar",
       "searchable": 0,
@@ -59,27 +59,40 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{
-	"key": "sansan",
-	"name": "☪阿星✨影视解析",
-	"type": 3,
-        "jar": "./jar/xcz.jar",
-	"api": "csp_SP33",
-	"searchable": 1,
-	"quickSearch": 1,
-	"changeable": 0
-},
 
 {
-"key": "Xbpq_1080kkk影城",
-"name": "☪阿星🔯1080K",
+  "key": "七新电影网_js",
+  "name": "☪阿星🎦七新电影网",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "./lib/七新电影网.js"
+},
+{
+"key": "XBPQ_1450电影",
+"name": "☪阿星🎦1450",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "./json/1080kkk影城.json"
+"ext": "./json/1450电影.json"
 },
+
+{
+"key": "sansan",
+"name": "☪阿星✨影视解析",
+"type": 3,
+"jar": "./jar/xcz.jar",
+"api": "csp_SP33",
+"searchable": 1,
+"quickSearch": 1,
+"changeable": 0
+},
+
 
 {
       "key": "爱奇",
@@ -191,17 +204,7 @@ myIPTV/main/ipv6.m3u",
   "filterable": 1,
   "ext": "./lib/影院蓝光.json"
 },
-{
-  "key": "七新电影网_js",
-  "name": "☪阿星🌼七新电影网",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "./lib/七新电影网.js"
-},
+
 
 {
 "key": "xbpq_牛逼新视觉",
@@ -816,6 +819,18 @@ myIPTV/main/ipv6.m3u",
       "filterable": 1,
       "ext": "./lib/七新影视.json"
     },
+{
+"key": "Xbpq_1080kkk影城",
+"name": "☪阿星🔯1080K",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/1080kkk影城.json"
+},
+
+
 {
             "key": "可可影视",
             "name": "☪阿星⚛️可可影视",
