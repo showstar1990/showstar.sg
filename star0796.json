@@ -73,7 +73,7 @@ myIPTV/main/ipv6.m3u",
 },
 {
 "key": "XBPQ_1450电影",
-"name": "☪阿星🎦1450",
+"name": "☪阿星🎦1450电影网",
 "type": 3,
 "api": "csp_XBPQ",
 "searchable": 1,
@@ -82,6 +82,16 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/1450电影.json"
 },
 
+{
+"key": "xbpq_VIP128电影",
+"name": "☪阿星🎦VIP电影",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./json/VIP128电影.json"
+},
 {
 "key": "sansan",
 "name": "☪阿星✨影视解析",
@@ -1192,16 +1202,7 @@ myIPTV/main/ipv6.m3u",
  "filterable":1,
  "ext":"./json/丽宫影院.json"
   },
-    {
-      "key": "VIP影视",
-      "name": "☪阿星🎦VIP秒播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/VIPyingshi.json"
-    },
+    
     
         {
       "key": "Vidhub视频",
@@ -1213,6 +1214,16 @@ myIPTV/main/ipv6.m3u",
       "filterable": 1,
       "ext": "./lib/Vidhub.json"
     },
+{
+"key": "xbpq_09871乐享",
+"name": "☪阿星🎙️乐享",
+"type": 3,
+"api": "csp_XBPQ",
+"filterable": 1,
+"changeable": 1,
+"ext": "./json/09871乐享.json"
+},
+
     
    {
       "key": "360zy",
