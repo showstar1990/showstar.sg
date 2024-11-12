@@ -83,6 +83,17 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+ "key": "hipy_js_PTT追剧大师",
+ "name": "☪阿星🎦PTT追剧大师(drpy_t3)",
+ "type": 3,
+ "api": "./star_lib/drpy2.min.js",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "order_num": 0,
+ "ext": "./lib/PTT追剧大师.js"
+ },
+{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
