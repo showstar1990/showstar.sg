@@ -15,7 +15,7 @@ myIPTV/main/ipv6.m3u",
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "♪抖音show.star☪阿星💫",
+      "name": "🇨🇳抖音♪show.star☪阿星💫",
       "type": 3,
       "jar": "./jar/pg1.jar",
       "searchable": 0,
@@ -440,6 +440,15 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/nfzw.json"
 },
 
+{
+"key": "xbpq_XMXONE影视资源",
+"name": "☪阿星🎞️MXONE",
+"type": 3,
+"api": "csp_XBPQ",
+"filterable": 1,
+"changeable": 1,
+"ext": "./json/XMXONE影视资源.json"
+},
 {
  "key":"csp_xBPQ_旋风影院",
  "name":"☪阿星⛵旋风影院",
