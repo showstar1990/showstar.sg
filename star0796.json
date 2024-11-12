@@ -74,7 +74,7 @@ myIPTV/main/ipv6.m3u",
       "name": "🌺扣扣｜全能",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "jar": "./jar/wex.txt",
+      "jar": "https://gitee.com/showstar0796/showstar.sg/blob/master/jar/wex.txt",
       "searchable": 1,
       "changeable": 1
     },
