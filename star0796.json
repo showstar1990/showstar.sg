@@ -15,7 +15,7 @@ myIPTV/main/ipv6.m3u",
   "sites": [
     {
       "key": "lf_js_search",
-      "name": "🇨🇳抖音♪show.star☪阿星💫",
+      "name": "🇨🇳 抖音♪show.star☪阿星💫",
       "type": 3,
       "jar": "./jar/pg1.jar",
       "searchable": 0,
@@ -440,15 +440,7 @@ myIPTV/main/ipv6.m3u",
 "ext": "./json/nfzw.json"
 },
 
-{
-"key": "xbpq_XMXONE影视资源",
-"name": "☪阿星🎞️MXONE",
-"type": 3,
-"api": "csp_XBPQ",
-"filterable": 1,
-"changeable": 1,
-"ext": "./json/XMXONE影视资源.json"
-},
+
 {
  "key":"csp_xBPQ_旋风影院",
  "name":"☪阿星⛵旋风影院",
@@ -721,6 +713,21 @@ myIPTV/main/ipv6.m3u",
 				"类型": "动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing||国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju||空||空"
 			}
 		},
+{
+			"key": "xbpq_爱宝片",
+			"name": "☪阿星⚛️宝片",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"filterable": 1,
+			"changeable": 1,
+			"ext": {
+				"主页url": "https://ibaopian.pro/",
+				"搜索url": "https://ibaopian.pro/vod/search.html?wd={wd}&submit=",
+				"分类url": "https://ibaopian.pro/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "剧院$1#连续剧$2#综艺$3#动漫$4"
+			}
+		},
+
 {
       "key": "蚂蚁",
       "name": "☪阿星🐜蚂蚁影视",
