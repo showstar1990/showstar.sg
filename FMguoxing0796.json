@@ -1,24 +1,19 @@
-﻿{
-  "spider": "../jar/spider.jar;md5;92ca9354dbc6a80563a500663ed2491e",
+{
+  "spider": "./xmbjm.jar",
   "sites": [
-    {
-      "key": "Douban",
-      "name": "豆瓣|首页",
+     {
+      "key": "lf_js_search",
+      "name": "🇨🇳 抖音号♪show.star☪阿星✨",
       "type": 3,
-      "api": "csp_Douban",
+      "jar": "./jar/pg1.jar",
       "searchable": 0,
-      "changeable": 0,
-      "ext": {}
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "./star_lib/lf_search3_min.js"
     },
-    {
-      "key": "BD",
-      "name": "BD|首页",
-      "type": 3,
-      "api": "csp_BD",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "aHR0cHM6Ly93d3cueWp5czA1LmNvbS8="
-    },
+
+    
     {
       "key": "NCat",
       "name": "网飞猫 | 影视",
