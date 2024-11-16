@@ -103,18 +103,6 @@ myIPTV/main/ipv6.m3u",
 "changeable": 0
 },
 
-{
-      "key": "🚀 影探 | JS",
-      "name": "☪阿星✨影探🚀",
-      "type": 3,
-      "api": "./star_lib/merge.min.js",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./star_lib/yingtan.js"
-    },
-
 
 {
       "key": "爱奇",
