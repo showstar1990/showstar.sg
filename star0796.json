@@ -1895,11 +1895,15 @@ myIPTV/main/ipv6.m3u",
       "type": 3,
       "url": "Web"
     },
-
 {
-      "name": "-✨阿星1080zy解析-",
-      "type": 0,
-      "url": "https://vip.zykbf.com/?url="
+        "name": "☪阿星1080zyk",
+        "hosts": [
+            "high24-playback",
+            "high20-playback"
+        ],
+        "regex": [
+            "16.63"
+        ]
     },
 
       {
