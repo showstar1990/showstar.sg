@@ -59,8 +59,18 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{"key":"zy_1080","name":"1080影视","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","playurl":"https://vip.zykbf.com/?url=",
-	"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"]},
+{
+"key":"zy_1080",
+"name":"1080影视",
+"type":1,
+"jar": "./jar/han.txt",
+"api":"https://api.1080zyku.com/inc/apijson.php",
+"playurl":"https://vip.zykbf.com/?url=",
+
+"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"
+]
+},
+
 
 {
   "key": "七新电影网_js",
