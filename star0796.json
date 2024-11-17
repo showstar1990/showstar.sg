@@ -59,17 +59,6 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-{
-"key":"zy_1080",
-"name":"1080影视",
-"type":1,
-"jar": "./jar/han.txt",
-"api":"https://api.1080zyku.com/inc/apijson.php",
-"playurl":"https://vip.zykbf.com/?url=",
-"categories": ["国产剧","大陆综艺","国产动漫","日韩综艺","日韩动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","纪录片","剧情片","动画片","战争片"
-]
-},
-
 
 {
   "key": "七新电影网_js",
@@ -1739,50 +1728,6 @@ myIPTV/main/ipv6.m3u",
       "timeout": 30
     },
     
-{
-      "key": "TGYunPanLocal",
-      "name": "TG频道搜索",
-      "type": 3,
-      "api": "csp_TGYunPanLocal",
-      "jar": "./star_lib/pg.txt",
-      "timeout": 120,
-      "ext": {
-        "token": "https://gitee.com/lanny520/tv/raw/master/pg/tokenm.json",
-        "json": "./star_lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-        "proxy": "proxy",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
-    {
-      "key": "TGYunPan",
-      "name": "TG群组搜索",
-      "type": 3,
-      "api": "csp_TGYunPan",
-      "jar": "./star_lib/pg.txt",
-      "timeout": 120,
-      "ext": {
-        "token": "https://gitee.com/lanny520/tv/raw/master/pg/tokenm.json",
-        "json": "./star_lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
-        "proxy": "noproxy",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      }
-    },
     
     {
       "key": "盘Se",
