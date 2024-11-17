@@ -2007,69 +2007,6 @@ myIPTV/main/ipv6.m3u",
         },
 
 
-{
-        "name": "索尼",
-        "hosts": [
-            "suonizy"
-        ],
-        "regex": [
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-            "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-        ]
-    },
-    {
-        "name": "快看",
-        "hosts": [
-            "kuaikan"
-        ],
-        "regex": [
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-        ]
-    },
-    {
-        "name": "leshiyun",
-        "hosts": [
-            "leshiyuncdn"
-        ],
-        "regex": [
-            "15.92"
-        ]
-    },
-    {
-        "name": "1080zyk",
-        "hosts": [
-            "high24-playback",
-            "high20-playback"
-        ],
-        "regex": [
-            "16.63"
-        ]
-    },
-    {
-        "name": "555DM",
-        "hosts": [
-            "cqxfjz"
-        ],
-        "regex": [
-            "10.56"
-        ]
-    },
-    {
-        "name": "海外看",
-        "hosts": [
-            "haiwaikan"
-        ],
-        "regex": [
-            "10.0099",
-            "10.3333",
-            "16.0599",
-            "8.1748",
-            "10.85"
-        ]
-    },
 
                        {
 			"name": "QJ",
