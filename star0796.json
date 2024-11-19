@@ -1886,10 +1886,34 @@ myIPTV/main/ipv6.m3u",
   ],
    "parses": [
     {
-      "name": "vipjx",
-      "type": 1,
-      "url": "https://json.vipjx.cnow.eu.org/?url="
-    },
+            "name": "☪阿星✨1080解析",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
 
     {
       "name":"-☪阿星①✨-",
@@ -1961,35 +1985,7 @@ myIPTV/main/ipv6.m3u",
          }
        },
 
-           {
-            "name": "☪阿星✨1080解析",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/neibu.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+           
 
 {
       "name": "聚合1",
