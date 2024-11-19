@@ -1886,24 +1886,9 @@ myIPTV/main/ipv6.m3u",
   ],
    "parses": [
     {
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-      {
-      "name": "-m3u8TV-",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "-777-",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "name": "vipjx",
+      "type": 1,
+      "url": "https://json.vipjx.cnow.eu.org/?url="
     },
 
     {
@@ -2006,7 +1991,26 @@ myIPTV/main/ipv6.m3u",
             }
         },
 
-
+{
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+      {
+      "name": "-m3u8TV-",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "-777-",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
 
                        {
 			"name": "QJ",
