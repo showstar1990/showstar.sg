@@ -59,7 +59,16 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/zb.txt",
       "jar": "./lib/sdtv.jar"
     },
-
+{
+      "key": "真心影视",
+      "name": "☪阿星🪙西瓜",
+      "type": 3,
+      "jar": "./jar/spider.jar",
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
   "key": "七新电影网_js",
   "name": "☪阿星🎦七新电影网",
@@ -83,16 +92,6 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-"key":"1905",
-"name":"☪阿星💡1905影视",
-"type":3,
-"jar": "./jar/jar.php",
-"api":"csp_Web1905",
-"searchable":1,
-"quickSearch":0,
-"filterable":0
-},
-{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
@@ -102,6 +101,17 @@ myIPTV/main/ipv6.m3u",
 "filterable": 1,
 "ext": "./json/VIP128电影.json"
 },
+{
+"key":"1905",
+"name":"☪阿星💡1905影视",
+"type":3,
+"jar": "./jar/jar.php",
+"api":"csp_Web1905",
+"searchable":1,
+"quickSearch":0,
+"filterable":0
+},
+
 {
 "key": "sansan",
 "name": "☪阿星✨影视解析",
@@ -145,16 +155,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/360影视[官].js"
     },
 
-{
-      "key": "真心影视",
-      "name": "☪阿星🍈西瓜",
-      "type": 3,
-      "jar": "./jar/spider.jar",
-      "api": "csp_WebGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 
 {
  "key": "电影港",
@@ -266,20 +267,6 @@ myIPTV/main/ipv6.m3u",
       "api": "./star_lib/smdy.js",
       "ext": "./star_lib/月惜花晨.js"
     },
-{
-            "key": "JS",
-            "name": "甄嬛｜4K影院",
-            "type": 3,
-            "api": "./star_lib/drpy2.min.js",
-            "jar": "./jar/pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/4KAV.js"
-        },
-
-
 {
       "key": "多多弹幕",
       "name": "☪阿星🐈多多4K",
