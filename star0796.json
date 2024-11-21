@@ -83,17 +83,6 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
-  "key": "fxz影酷4k",
-  "name": "🍊影酷影视",
-  "type": 3,"style":{ "type":"rect", "ratio":1.485 },
-  "api": "csp_XBPQ",
-  "jar": "./lib/XBPQ.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/分享影酷.json"
-},
-{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
