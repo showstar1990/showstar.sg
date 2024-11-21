@@ -83,6 +83,15 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+"key":"1905",
+"name":"☪阿星💡1905影视",
+"type":3,
+"api":"csp_Web1905",
+"searchable":1,
+"quickSearch":0,
+"filterable":0
+},
+{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
