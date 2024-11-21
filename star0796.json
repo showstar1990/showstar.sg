@@ -1,7 +1,7 @@
 {
   "spider": "./xmbjm.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "https://4708.kstore.space/logo.gif",
+ 
 
 "lives": [
  {
@@ -86,6 +86,7 @@ myIPTV/main/ipv6.m3u",
 "key":"1905",
 "name":"☪阿星💡1905影视",
 "type":3,
+"jar": "./jar/jar.php",
 "api":"csp_Web1905",
 "searchable":1,
 "quickSearch":0,
