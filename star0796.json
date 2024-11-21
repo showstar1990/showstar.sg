@@ -83,6 +83,17 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+  "key": "fxz影酷4k",
+  "name": "🍊影酷影视",
+  "type": 3,"style":{ "type":"rect", "ratio":1.485 },
+  "api": "csp_XBPQ",
+  "jar": "./lib/XBPQ.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/分享影酷.json"
+},
+{
 "key": "xbpq_VIP128电影",
 "name": "☪阿星🎦VIP电影",
 "type": 3,
@@ -1985,25 +1996,7 @@ myIPTV/main/ipv6.m3u",
          }
        },
 
-     {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-
-{"name":"parwix2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext";:{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-
-{"name":"xuerenweb","type":0,"url":"https://s.2tu.uk/?url=","ext";:{"flag":["xueren"]}},
-
-{"name":"xuerenweb2","type":0,"url":"https://xrm3u8.qd234.cn/?url=","ext";:{"flag":["xueren"]}},
-
-{"name":"美剧虫","type":0,"url":"https://jx.daiguaji.com/?url=","ext";:{"flag":["zijian"]}},
-
-{"name":"miao","type":0,"url":"https://jx.58g8.com/1/?url=","ext";:{"flag":["miaoparty"]}},
-
-{"name":"web1","type":0,"url":"https://www.nxflv.com/?url=","ext";:{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}},
-
-{"name":"万能解析","type":0,"url":"https://vip.legendwhb.cn/m3u8.php?url=","ext";:{"flag":["ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
-
-{"name":"ltnb04","type":0,"url":"https://vip.bljiex.com/?v=","ext";:{"flag":["ltnb"]}},
-
-{"name":"ltnb02","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},      
+           
 
 {
       "name": "聚合1",
