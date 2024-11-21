@@ -267,6 +267,20 @@ myIPTV/main/ipv6.m3u",
       "ext": "./star_lib/月惜花晨.js"
     },
 {
+            "key": "JS",
+            "name": "甄嬛｜4K影院",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "jar": "./jar/pg.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/4KAV.js"
+        },
+
+
+{
       "key": "多多弹幕",
       "name": "☪阿星🐈多多4K",
       "type": 3,
