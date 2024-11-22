@@ -186,13 +186,7 @@ myIPTV/main/ipv6.m3u",
  "api": "./lib/drpy2.min.js",
  "ext": "./lib/金牌影视.js"
 },
-{
-"key": "XBPQ_爱上电影",
-"name": "☪阿星💖爱上电影",
-"type": 3,
-"api": "csp_XBPQ",
-"ext": "./json/爱上电影.json"
-},
+
 
 {
 "key": "hipy_js_人人影视",
@@ -383,15 +377,7 @@ myIPTV/main/ipv6.m3u",
       "api": "./drpy_libs/drpy2.min.js",
       "ext": "./lib/瓜子.js"
     },
-    {
-      "key": "瓜子｜影视",
-      "name": "☪阿星🍉瓜子web",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
 {
       "key": "洽洽影视",
       "name": "☪阿星🍉瓜籽app",
