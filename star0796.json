@@ -377,7 +377,15 @@ myIPTV/main/ipv6.m3u",
       "api": "./drpy_libs/drpy2.min.js",
       "ext": "./lib/瓜子.js"
     },
-    
+    {
+      "key": "瓜子｜影视",
+      "name": "☪阿星🍉瓜子web",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "洽洽影视",
       "name": "☪阿星🍉瓜籽app",
