@@ -113,6 +113,18 @@ myIPTV/main/ipv6.m3u",
 },
 
 {
+      "key": "酷影视",
+      "name": "☪阿星✨酷影",
+      "type": 3,
+      "jar": "./jar/spider.jar",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+
+{
 "key": "sansan",
 "name": "☪阿星✨影视解析",
 "type": 3,
