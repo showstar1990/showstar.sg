@@ -891,18 +891,6 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/电影先生.js"
     },
     
-    {
-      "key": "ygys",
-      "name": "☪阿星🔶一个G影视",
-      "type": 3,
-      "api": "csp_Pptv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://yigeg.pro",
-      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
 
     {
       "key": "剧集",
