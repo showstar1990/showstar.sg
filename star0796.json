@@ -192,16 +192,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./json/胖虎.json"
     },
 
-{
-      "key": "P4_皮皮虾",
-      "name": "☪阿星🦐皮皮影视",
-      "type": 3,
-      "api": "csp_PipiXia",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/P4.jar"
-    },
+
 {
  "key": "电影港",
  "name": "☪阿星🎦电影港",
