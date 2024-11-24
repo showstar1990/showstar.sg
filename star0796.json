@@ -147,6 +147,14 @@ myIPTV/main/ipv6.m3u",
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/腾讯VIP.js"
     },
+
+{
+      "key": "游酷",
+      "name": "☪阿星🐠游酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/优酷.js"
+    },
     {
       "key": "芒果",
       "name": "☪阿星🍋芒粿",
@@ -155,6 +163,13 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/芒果.js"
     },
     
+{
+      "key": "艘狗",
+      "name": "☪阿星🐕艘狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/搜狗.js"
+    },
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
