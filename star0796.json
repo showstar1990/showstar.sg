@@ -149,11 +149,12 @@ myIPTV/main/ipv6.m3u",
     },
 
 {
-      "key": "游酷",
-      "name": "☪阿星🐠游酷",
+      "key": "dr_youku",
+      "name": "☪阿星🐟游酷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "jar": "./jar/fty.jar",
+      "ext": "./lib/youku.js"
     },
     {
       "key": "芒果",
@@ -164,11 +165,12 @@ myIPTV/main/ipv6.m3u",
     },
     
 {
-      "key": "艘狗",
-      "name": "☪阿星🐕艘狗",
+      "key": "dr_搜狗",
+      "name": "☪阿星🐕飕狗",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/搜狗.js"
+      "jar": "./jar/fty.jar",
+      "ext": "./lib/caigou.js"
     },
     {
       "key": "360影视",
