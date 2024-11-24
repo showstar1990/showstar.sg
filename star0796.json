@@ -7,7 +7,8 @@
  {
       "name": "IPV",
       "type": 0,
-      "url": "https://gitee.com/showstar0796/showstar.sg/raw/master/tvi.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/
+myIPTV/main/ipv6.m3u",
       "playerType": 1
     }],
 
@@ -68,6 +69,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "7ced0073619101d397b5c86fc3578ed4",
+      "name": "☪阿星💥火狐2K",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/"
+    },
+
+
 {
   "key": "七新电影网_js",
   "name": "☪阿星🎦七新电影网",
@@ -376,7 +385,15 @@
       "api": "./drpy_libs/drpy2.min.js",
       "ext": "./lib/瓜子.js"
     },
-    
+    {
+      "key": "瓜子｜影视",
+      "name": "☪阿星🍉瓜子web",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "洽洽影视",
       "name": "☪阿星🍉瓜籽app",
@@ -881,6 +898,7 @@
       "filterable": 1,
       "ext": "./lib/电影先生.js"
     },
+    
     
 
     {
