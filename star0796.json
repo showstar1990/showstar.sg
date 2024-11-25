@@ -70,16 +70,6 @@ myIPTV/main/ipv6.m3u",
       "filterable": 1
     },
 {
-      "key": "Wexduboku",
-      "name": "☪阿星🎇独播",
-      "type": 3,
-      "jar": "./jar/wex.jar",
-      "api": "csp_Wexduboku",
-      "searchable": 1,
-      "changeable": 1
-    },
-
-{
       "key": "7ced0073619101d397b5c86fc3578ed4",
       "name": "☪阿星💥火狐2K",
       "type": 1,
