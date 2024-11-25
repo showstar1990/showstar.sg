@@ -1,17 +1,8 @@
 
-
 {
-"wallpaper":"https://tv.nxog.top/m//t/",
-"logo":"https://tv.nxog.top/m//LOGO2.gif",
-"spider":"./jar.php?id=bili&ou=公众号欧歌app;md5;11b2cc3aa7b71c95eba520bdd0458b68",
-"warningText":"阿星✨提示:
-📢接口软件永远免费 
-📢长期维护切勿贩卖
-📢智能AI已过滤广告",
-"lives":[
-{"name":"tv","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
-],
-"sites": [
+    "spider":"./jar.php?id=bili&ou=公众号欧歌app;md5;11b2cc3aa7b71c95eba520bdd0458b68",
+    "sites": [
+            
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./lib/学堂教育.json"}, 
 {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/小学课堂.json"},
@@ -39,9 +30,18 @@
 {"key": "UP主","name": "🎮UP主","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/UP主.json"},
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/歌曲MV.json"},    
 {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/美食.json"},    
-{"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./lib/球星合集.json"}, 
-
-"parses":
+{"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./lib/球星合集.json"},
+    {
+      "key": "push_agent",
+      "name": "抖音号：show.star",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+    }
+  ],
+  "parses":
 [
 {"name":"-阿星✨聚合-","type":3,"url":"Demo"},
 {"name":"阿星✨解析①","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
