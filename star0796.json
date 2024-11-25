@@ -70,23 +70,22 @@ myIPTV/main/ipv6.m3u",
       "filterable": 1
     },
 {
+      "key": "Wexduboku",
+      "name": "☪阿星🎇独播",
+      "type": 3,
+      "jar": "./jar/wex.jar",
+      "api": "csp_Wexduboku",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+{
       "key": "7ced0073619101d397b5c86fc3578ed4",
       "name": "☪阿星💥火狐2K",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
-{
-      "key": "Auete",
-      "name": "☪阿星🎦Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "jar": "./jar/fty.jar",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
+
 
 {
   "key": "七新电影网_js",
