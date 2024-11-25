@@ -75,7 +75,18 @@ myIPTV/main/ipv6.m3u",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
-
+{
+      "key": "Auete",
+      "name": "☪阿星🏝Auete影视",
+      "type": 3,
+      "api": "csp_Auete",
+      "jar": "./jar/fty.jar",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
 
 {
   "key": "七新电影网_js",
@@ -148,7 +159,14 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/腾讯VIP.js"
     },
 
-
+{
+      "key": "dr_youku",
+      "name": "☪阿星🐟游酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "jar": "./jar/fty.jar",
+      "ext": "./lib/youku.js"
+    },
     {
       "key": "芒果",
       "name": "☪阿星🍋芒粿",
@@ -157,7 +175,14 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/芒果.js"
     },
     
-
+{
+      "key": "dr_搜狗",
+      "name": "☪阿星🐕飕狗",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "jar": "./jar/fty.jar",
+      "ext": "./lib/caigou.js"
+    },
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
@@ -166,6 +191,17 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/360影视[官].js"
     },
 
+{
+      "key": "csp_胖虎",
+      "name": "☪阿星🐯胖虎影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/HCCX.jar",
+      "ext": "./json/胖虎.json"
+    },
 
 
 {
