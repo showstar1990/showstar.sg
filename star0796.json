@@ -7,8 +7,7 @@
  {
       "name": "IPV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/
-myIPTV/main/ipv6.m3u",
+      "url": "https://gitee.com/showstar0796/showstar.sg/raw/master/TstarV.m3u",
       "playerType": 1
     }],
 
@@ -148,14 +147,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/腾讯VIP.js"
     },
 
-{
-      "key": "dr_youku",
-      "name": "☪阿星🐟游酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./jar/fty.jar",
-      "ext": "./lib/youku.js"
-    },
+
     {
       "key": "芒果",
       "name": "☪阿星🍋芒粿",
@@ -165,12 +157,11 @@ myIPTV/main/ipv6.m3u",
     },
     
 {
-      "key": "dr_搜狗",
-      "name": "☪阿星🐕飕狗",
+      "key": "dr_youku",
+      "name": "☪阿星🍃游KU",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./jar/fty.jar",
-      "ext": "./lib/caigou.js"
+      "api": "./star_lib/drpy2.min.js",
+      "ext": "./lib/youku.js"
     },
     {
       "key": "360影视",
@@ -178,18 +169,6 @@ myIPTV/main/ipv6.m3u",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视[官].js"
-    },
-
-{
-      "key": "csp_胖虎",
-      "name": "☪阿星🐯胖虎影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/HCCX.jar",
-      "ext": "./json/胖虎.json"
     },
 
 
