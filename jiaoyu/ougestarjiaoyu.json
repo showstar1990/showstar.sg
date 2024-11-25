@@ -1,7 +1,13 @@
 
 {
     "spider":"./jar.php?id=bili&ou=公众号欧歌app;md5;11b2cc3aa7b71c95eba520bdd0458b68",
-    
+    "warningText":"阿星✨提示:
+📢接口软件永远免费 
+📢长期维护切勿贩卖
+📢智能AI已过滤广告",
+"lives":[
+{"name":"tv","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+],
     "sites": [
             
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./lib/学堂教育.json"}, 
@@ -34,7 +40,7 @@
 {"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./lib/球星合集.json"},
     {
       "key": "push_agent",
-      "name": "抖音号：show.star",
+      "name": "抖音号：show.star阿星✨",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": "1",
@@ -44,7 +50,7 @@
   ],
   "parses": [
     {
-      "name": "阿星",
+      "name": "阿星✨",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
