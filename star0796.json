@@ -7,7 +7,8 @@
  {
       "name": "IPV",
       "type": 0,
-      "url": "https://gitee.com/showstar0796/showstar.sg/raw/master/TstarV.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/
+myIPTV/main/ipv6.m3u",
       "playerType": 1
     }],
 
@@ -156,13 +157,7 @@
       "ext": "./lib/芒果.js"
     },
     
-{
-      "key": "dr_youku",
-      "name": "☪阿星🍃游KU",
-      "type": 3,
-      "api": "./star_lib/drpy2.min.js",
-      "ext": "./lib/youku.js"
-    },
+
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
@@ -170,6 +165,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/360影视[官].js"
     },
+
 
 
 {
