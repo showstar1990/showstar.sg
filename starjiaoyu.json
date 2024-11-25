@@ -277,13 +277,7 @@
             "api": "./starjiaoyu_lib/drpy2.min.js",
             "ext": "./starjiaoyu_lib/异兽.js"
         },
-        {
-            "key": "优酷",
-            "name": "🧜‍| 少儿频道4",
-            "type": 3,
-            "api": "./starjiaoyu_lib/drpy2.min.js",
-            "ext": "./starjiaoyu_lib/优酷.js"
-        },
+        
         {
             "key": "py_cctv_1",
             "name": "🅱️央视-少儿",
