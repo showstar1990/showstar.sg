@@ -42,7 +42,7 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
-  ""parses": [
+  "parses": [
     {
       "name": "阿星",
       "type": 0,
