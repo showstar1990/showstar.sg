@@ -1,8 +1,6 @@
 {
   "spider": "./xmbjm.jar",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
- 
-
+  
 "lives": [
  {
       "name": "IPV",
@@ -148,14 +146,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/腾讯VIP.js"
     },
 
-{
-      "key": "dr_youku",
-      "name": "☪阿星🐟游酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./jar/fty.jar",
-      "ext": "./lib/youku.js"
-    },
+
     {
       "key": "芒果",
       "name": "☪阿星🍋芒粿",
@@ -164,14 +155,7 @@ myIPTV/main/ipv6.m3u",
       "ext": "./lib/芒果.js"
     },
     
-{
-      "key": "dr_搜狗",
-      "name": "☪阿星🐕飕狗",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./jar/fty.jar",
-      "ext": "./lib/caigou.js"
-    },
+
     {
       "key": "360影视",
       "name": "☪阿星⚓360剧",
